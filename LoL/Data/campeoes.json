@@ -6,5 +6,61 @@
         "Rota": [ "Topo"],
         "Funcao": "Lutador",
         "Imagem": "\\img\\campeoes\\RiotX_ChampionList_aatrox"
+    },
+    {
+        "Numero": 2,
+        "Nome":  "Blitzcrank, o Grande Golem a Vapor",
+        "Descricao": "Blitzcrank é um autômato enorme e praticamente indestrutível de Zaun, construído originalmente para lidar com lixo tóxico. No entanto, ele achou seu propósito principal muito restritivo e modificou sua própria forma para ajudar as pessoas menos favorecidas do Sumidouro. Blitzcrank usa sua força e robustez para proteger os outros sem pedir nada em troca, estendendo seu punho de metal ou surto de energia para derrotar qualquer encrenqueiro.",
+        "Rota": [ "Suporte"],
+        "Funcao": "Tanque",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_blitzcrank"
+    },
+    {
+        "Numero": 3,
+        "Nome":  "Caitlyn, a Xerife de Piltover",
+        "Descricao": "Conhecida como sua melhor pacificadora, Caitlyn também é a melhor escolha de Piltover para livrar a cidade de seus elementos criminosos elusivos. É comum que ela faça dupla com Vi, agindo como um contraponto de calmaria para a natureza impetuosa de sua parceira. Mesmo carregando um rifle hextec único, a arma mais poderosa de Caitlyn é seu intelecto superior, que permite que ela prepare elaboradas armadilhas para qualquer fora da lei tolo o suficiente para operar na Cidade do Progresso.",
+        "Rota": [ "Adc"],
+        "Funcao": "Atirador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_caitlyn_v2"
+    },
+    {
+        "Numero": 4,
+        "Nome":  "Darius, a Mão de Noxus",
+        "Descricao": "Não há símbolo maior do poder de Noxus do que Darius, o mais temido e experiente comandante da nação. Vindo de origens humildes para se tornar a Mão de Noxus, ele corta seu caminho através dos inimigos do império; muitos dos quais são, inclusive, noxianos. Sabendo que ele nunca duvida da integridade de sua causa e que nunca hesita assim que seu machado é levantado, aqueles que desafiam o comandante da Legião Trifária não esperam por misericórdia.",
+        "Rota": [ "Topo"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_darius"
+    },
+    {
+        "Numero": 5,
+        "Nome":  "Ekko, o Rapaz que Estilhaçou o Tempo",
+        "Descricao": "Um prodígio das ruas violentas de Zaun, Ekko manipula o tempo para reverter qualquer situação a seu favor. Usando sua própria invenção, o Revo-Z, ele explora as possíveis bifurcações da realidade para criar o momento perfeito. Embora valorize muito sua liberdade, quando algo ameaça seus amigos, ele não mede esforços para defendê-los. Para meros observadores, Ekko parece conseguir o impossível sempre de primeira.",
+        "Rota": [ "Meio", "Selva"],
+        "Funcao": "Assassino",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_ekko"
+    },
+    {
+        "Numero": 6,
+        "Nome":  "Fiddlesticks, o Terror Ancestral",
+        "Descricao": "Algo despertou em Runeterra. Algo ancestral. Algo terrível. O eterno terror conhecido como Fiddlesticks vaga pelos confins do mundo mortal, atraído por áreas dominadas por uma paranoia palpável, onde se alimenta de vítimas apavoradas. Com sua foice afiada, essa criatura malformada e desgastada colhe a própria essência do medo, deixando a mente dos desafortunados que sobrevivem ao seu ataque totalmente fragmentada. Muito cuidado com o som dos corvos, ou com os sussurros de uma figura que parece quase humana... pois Fiddlesticks está de volta.",
+        "Rota": ["Selva", "Suporte"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_fiddlesticks"
+    },
+    {
+        "Numero": 7,
+        "Nome":  "Galio, o Colosso",
+        "Descricao": "Do lado de fora da reluzente cidade de Demacia, Galio, o colosso de pedra, vigia com zelo. Construído como bastião contra magos inimigos, ele geralmente permanece imóvel por décadas até que a presença de uma magia poderosa o desperte. Uma vez ativado, Galio aproveita bem o tempo, deleitando-se com a emoção de uma luta e da rara honra de defender seus compatriotas. Contudo, os triunfos dele são tanto doces quanto amargos, pois a magia que ele destrói é a mesma que o movimenta, e cada vitória o devolve à inércia.",
+        "Rota": ["Meio", "Suporte"],
+        "Funcao": "Tanque",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_galio"
+    },
+    {
+        "Numero": 8,
+        "Nome":  "Hecarim, a Sombra da Guerra",
+        "Descricao": "Hecarim é a fusão espectral de homem e animal, amaldiçoado a cavalgar entre as almas dos vivos por toda a eternidade. Quando as Ilhas das Bênçãos caíram nas sombras, esse cavaleiro orgulhoso foi obliterado pelas energias destrutivas da Ruína, junto com toda sua cavalaria e suas montarias. Agora, assim que a Névoa Negra se espalha por Runeterra, ele lidera seu ataque devastador, deleitando-se com a matança e destruindo seus inimigos sob seus cascos de armadura.",
+        "Rota": ["Selva"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_hecarim"
     }
 ]
