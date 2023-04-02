@@ -1,6 +1,6 @@
 namespace LoL.Models;
 
-public class Campeoes
+public class Campeao
 {
     //Atributos
     public int Numero { get; set; }
@@ -11,7 +11,7 @@ public class Campeoes
     public string Imagem { get; set; }
 
     // Método Construtor
-    public Campeoes()
+    public Campeao()
     {
         Rota = new List<string>();
     }

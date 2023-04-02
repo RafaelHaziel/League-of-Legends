@@ -2,7 +2,7 @@ namespace LoL.Models;
 
 public class DetailsDto
 {
-    public Campeoes Prior { get; set; }
-    public Campeoes Current { get; set; }
-    public Campeoes Next { get; set; }
+    public Campeao Prior { get; set; }
+    public Campeao Current { get; set; }
+    public Campeao Next { get; set; }
 }
