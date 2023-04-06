@@ -1,22 +1,22 @@
 [
     {
         "Nome": "Topo",
-        "Cor": "#504e56"
+        "Cor": "#808080"
     },
     {
         "Nome": "Selva",
-        "Cor": "#14de36"
+        "Cor": "#696969"
     },
     {
         "Nome": "Meio",
-        "Cor": "#b469e2"
+        "Cor": "#4F4F4F"
     },
     {
         "Nome": "Adc",
-        "Cor": "#a1d7fc"
+        "Cor": "#1C1C1C"
     },
     {
         "Nome": "Suporte",
-        "Cor": "#d75d66"
+        "Cor": "#000000"
     }
 ]
