@@ -24,3 +24,7 @@ body {
 .me-2 {
   width: 40px;
 }
+
+.img-fluid {
+  width: 325px;
+}
