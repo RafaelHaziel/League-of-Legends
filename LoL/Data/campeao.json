@@ -3,44 +3,244 @@
         "Numero": 1,
         "Nome":  "Aatrox, a Espada Darkin",
         "Descricao": "Antes defensores honrados de Shurima contra o temido Vazio, Aatrox e seus irmãos acabaram se tornando uma ameaça ainda maior para Runeterra, e a única coisa capaz de derrotá-los foi um tipo de feitiçaria mortal e traiçoeira. Mas após séculos de encarceramento, Aatrox foi o primeiro a encontrar a liberdade novamente, e ele saiu corrompendo e transformando quem fosse tolo o suficiente de tentar tocar na arma mágica que continha sua essência. Agora, com um corpo roubado, ele vaga por Runeterra transfigurado, em uma versão bizarra da sua forma anterior, buscando uma vingança apocalíptica.",
-        "Rota": [ "Topo"],
+        "Rota": ["Topo"],
         "Funcao": "Lutador",
         "Imagem": "\\img\\campeoes\\aatrox.jpg"
     },
     {
         "Numero": 2,
+        "Nome":  "Ahri, a Raposa de Nove Caudas",
+        "Descricao": "A ligação de Ahri com a magia do mundo espiritual é inata. Ela é uma vastaya com traços de raposa, capaz de manipular as emoções de sua presa e consumir sua essência, devorando também as memórias e as percepções de cada alma absorvida. Outrora uma predadora poderosa, porém rebelde, Ahri agora viaja pelo mundo em busca de vestígios dos seus antepassados enquanto tenta substituir as memórias roubadas por novas de sua própria autoria.",
+        "Rota": ["Meio"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_ahri.jpg"
+    },
+    {
+        "Numero": 3,
+        "Nome":  "Akali, a Assassina Renegada",
+        "Descricao": "Abandonando a Ordem Kinkou e seu título de Punho das Sombras, Akali agora ataca sozinha, pronta para ser a arma mortal que seu povo precisa. Embora ela mantenha tudo o que aprendeu com seu mestre Shen, ela se comprometeu a defender Ionia de seus inimigos, um assassinato de cada vez. Akali pode atacar em silêncio, mas sua mensagem será ouvida em voz alta e clara: Temam a assassina sem mestre.",
+        "Rota": ["Meio"],
+        "Funcao": "Assassino",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_akali.jpg"
+    },
+    {
+        "Numero": 4,
+        "Nome":  "Akshan, o Sentinela Rebelde",
+        "Descricao": "Akshan ri da cara do perigo, lutando contra o mal com carisma, determinação e desejo de vingança, mas, estranhamente, sem vestir uma camisa sequer. É extremamente habilidoso na arte do combate furtivo, capaz de sumir da vista dos inimigos e reaparecer quando menos se espera. Com um firme senso de justiça e uma arma lendária que pode reverter a morte, ele corrige os delitos dos canalhas de Runeterra e vive de acordo com um código de conduta particular: Não seja babaca.",
+        "Rota": ["Meio"],
+        "Funcao": "Atirador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_akshan_v2.jpg"
+    },
+    {
+        "Numero": 5,
+        "Nome":  "Alistar, o Minotauro",
+        "Descricao": "Um poderoso guerreiro com uma temível reputação, Alistar busca vingança por seu clã, morto pelas mãos do império de Noxus. Apesar de ter sido escravizado e forçado a uma vida de gladiador, sua vontade indestrutível o impediu de se tornar uma fera de verdade. Agora, liberto das correntes dos seus antigos mestres, ele luta pelos oprimidos e desfavorecidos, sua fúria uma arma tão poderosa quanto seus chifres, cascos e punhos.",
+        "Rota": ["Suporte"],
+        "Funcao": "Tanque",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_alistar.jpg"
+    },
+    {
+        "Numero": 6,
+        "Nome":  "Amumu, a Múmia Triste",
+        "Descricao": "Reza a lenda que Amumu é uma alma solitária e melancólica da antiga Shurima que vaga sem rumo pelo mundo em busca de um amigo. Amaldiçoado por um feitiço ancestral para permanecer só pela eternidade, seu toque traz a morte e sua afeição, a ruína. Aqueles que afirmam já tê-lo visto o descrevem como um morto-vivo franzino e coberto por faixas asquerosas. Amumu já inspirou tantos mitos, folclore e lendas contadas por muitas gerações, que já é impossível separar a verdade da ficção.",
+        "Rota": ["Selva","Suporte"],
+        "Funcao": "Tanque",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_amumu.jpg"
+    },
+    {
+        "Numero": 7,
+        "Nome":  "Anivia, a Criofênix",
+        "Descricao": "Anivia é um espírito alado e benevolente que suporta infinitos ciclos de vida, morte e renascimento para proteger Freljord. Uma semideusa nascida de ventos impiedosos e frios brutais, ela carrega esses poderes elementais para perseguir qualquer um que ousar perturbar sua terra natal. Anivia guia e protege as tribos do norte hostil, que a reverenciam como um símbolo de esperança e como uma portadora de grandes mudanças. Ela luta com todas as fibras do seu ser, sabendo que por meio do sacrifício, sua memória irá perdurar e ela renascerá em um novo amanhã.",
+        "Rota": ["Meio"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_anivia.jpg"
+    },
+    {
+        "Numero": 8,
+        "Nome":  "Annie, a Criança Sombria",
+        "Descricao": "Perigosa, mas adoravelmente precoce, Annie é uma pequena maga com imenso poder piromaníaco. Mesmo isolada nas sombras das montanhas ao norte de Noxus, ela causa estranhamento com sua magia. Sua afinidade natural com o fogo já era evidente desde a primeira infância, quando ela tinha explosões emocionais imprevisíveis. Apesar disso, ela aprendeu a controlar esses “truques divertidos”. Seu truque favorito inclui invocar seu amado ursinho de pelúcia, Tibbers, como protetor incendiário. Perdida na eterna inocência da infância, Annie vaga pelas florestas sombrias em busca de alguém para brincar.",
+        "Rota": ["Meio","Suporte"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_annie.jpg"
+    },
+    {
+        "Numero": 9,
+        "Nome":  "Aphelios, a Arma dos Devotos",
+        "Descricao": "Emergindo da sombra do luar com suas armas em mãos, Aphelios abate os inimigos de sua fé em absoluto silêncio, comunicando-se apenas pela destreza de sua mira e pelo disparo de cada arma. Embora viva sob o efeito de um veneno que o emudeceu, ele é guiado por sua irmã Alune, que habita um santuário distante de onde invoca um arsenal de armas de pedra da lua para ajudá-lo. Enquanto a lua brilhar no céu, Aphelios nunca estará sozinho.",
+        "Rota": ["Atirador"],
+        "Funcao": "Atirador",
+        "Imagem": "\\img\\campeoes\\aphelios.jpg"
+    },
+    {
+        "Numero": 10,
+        "Nome":  "Ashe, a Arqueira do Gelo",
+        "Descricao": "A mãe de guerra Glacinata da tribo de Avarosa, Ashe comanda a horda mais populosa do norte. Estoica, inteligente e idealista, mesmo que desconfortável com seu papel de liderança, ela canaliza as magias ancestrais de sua linhagem para empunhar um arco de Gelo Verdadeiro. Com a crença de seu povo de que Ashe seria a heroína mítica, Avarosa, reencarnada, ela espera unificar Freljord mais uma vez, retomando suas antigas terras tribais.",
+        "Rota": ["Atirador","Suporte"],
+        "Funcao": "Atirador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_ashe.jpg"
+    },
+    {
+        "Numero": 11,
+        "Nome":  "Aurelion Sol, o Forjador de Estrelas",
+        "Descricao": "Aurelion Sol costumava agraciar a vasta imensidão vazia dos cosmos com maravilhas celestiais concebidas por ele mesmo. Agora, ele é forçado a usar seu incrível poder a mando de um império espacial remoto que o enganou e o mantém sob servidão. Desejando voltar a forjar estrelas, Aurelion Sol arrastará as próprias estrelas dos céus se for preciso para recuperar sua liberdade.",
+        "Rota": ["Meio"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_aurelionsol.jpg"
+    },
+    {
+        "Numero": 12,
+        "Nome":  "Azir, o Imperador das Areias",
+        "Descricao": "Azir foi um imperador mortal de Shurima em uma era muito antiga e um homem orgulhoso que esteve a um passo da imortalidade. Sua insolência fez com que fosse traído e assassinado no momento de seu maior triunfo, mas agora, milênios depois, ele renasceu como um Ascendente de poder imenso. Com sua cidade antes soterrada agora erguida, Azir busca devolver Shurima à sua antiga glória.",
+        "Rota": ["Meio"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_azir.jpg"
+    },
+    {
+        "Numero": 13,
+        "Nome":  "Bardo, o Protetor Andarilho",
+        "Descricao": "Viajante de galáxias distantes, Bardo é um agente do acaso que luta para manter um equilíbrio em que a vida possa suportar a indiferença do caos. Muitos habitantes de Runeterra entoam canções que louvam sua extraordinária índole, mas todos concordam que o andarilho cósmico é chegado a artefatos de grande poder mágico. Cercado por um jubiloso coral de prestativos mipes espirituais, é impossível enxergar suas ações como malevolentes, pois Bardo sempre serve ao bem maior... de sua própria maneira estranha.",
+        "Rota": ["Suporte"],
+        "Funcao": "Suporte",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_bard.jpg"
+    },
+    {
+        "Numero": 14,
+        "Nome":  "Bel'Veth, a Imperatriz do Vazio",
+        "Descricao": "Bel'Veth, uma imperatriz tenebrosa nascida da essência de uma cidade devorada, é o fim da própria Runeterra... E o início de uma realidade monstruosa criada à sua imagem. Guiada por eras de história, conhecimento e lembranças adaptadas do mundo superior, ela se alimenta vorazmente de uma necessidade cada vez maior de novas experiências e emoções, consumindo tudo que cruza o seu caminho. Mas seus desejos jamais serão saciados por apenas um mundo, e é por isso que ela volta seus olhos famintos para os antigos mestres do Vazio...",
+        "Rota": ["Selva"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_belveth.jpg"
+    },
+    {
+        "Numero": 15,
         "Nome":  "Blitzcrank, o Grande Golem a Vapor",
         "Descricao": "Blitzcrank é um autômato enorme e praticamente indestrutível de Zaun, construído originalmente para lidar com lixo tóxico. No entanto, ele achou seu propósito principal muito restritivo e modificou sua própria forma para ajudar as pessoas menos favorecidas do Sumidouro. Blitzcrank usa sua força e robustez para proteger os outros sem pedir nada em troca, estendendo seu punho de metal ou surto de energia para derrotar qualquer encrenqueiro.",
-        "Rota": [ "Suporte"],
+        "Rota": ["Suporte"],
         "Funcao": "Tanque",
         "Imagem": "\\img\\campeoes\\blitzcrank.jpg"
     },
     {
-        "Numero": 3,
+        "Numero": 16,
+        "Nome":  "Brand, a Vingança Flamejante",
+        "Descricao": "A criatura conhecida como Brand já se chamou Kegan Rodhe, um membro da gélida Freljord, e é hoje uma lição do que a tentação por poderes maiores pode fazer. Enquanto buscava uma das lendárias Runas Globais, Kegan traiu seus companheiros e a pegou para si e, em um instante, o homem já não existia mais. Com sua alma consumida pelo fogo e seu corpo um invólucro de uma chama viva, Brand agora vaga por Valoran em busca de outras runas, jurando vingança por erros que ele nunca poderia ter sofrido em uma dúzia de vidas mortais.",
+        "Rota": ["Meio", "Suporte"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_brand.jpg"
+    },
+    {
+        "Numero": 17,
+        "Nome":  "Braum, o Coração de Freljord",
+        "Descricao": "Abençoado com bíceps gigantescos e um coração maior ainda, Braum é um amado herói de Freljord. Cada salão de hidromel ao norte de Frostheld brinda sua força lendária que teria derrubado uma floresta de carvalhos em uma única noite e demolido uma montanha inteira com um soco. Carregando uma porta de cofre encantada como seu escudo, Braum vaga pelo norte congelado com seu sorriso abigodado tão grande quanto seus músculos, um verdadeiro amigo para os necessitados.",
+        "Rota": ["Suporte"],
+        "Funcao": "Suporte",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_braum.jpg"
+    },
+    {
+        "Numero": 18,
         "Nome":  "Caitlyn, a Xerife de Piltover",
         "Descricao": "Conhecida como sua melhor pacificadora, Caitlyn também é a melhor escolha de Piltover para livrar a cidade de seus elementos criminosos elusivos. É comum que ela faça dupla com Vi, agindo como um contraponto de calmaria para a natureza impetuosa de sua parceira. Mesmo carregando um rifle hextec único, a arma mais poderosa de Caitlyn é seu intelecto superior, que permite que ela prepare elaboradas armadilhas para qualquer fora da lei tolo o suficiente para operar na Cidade do Progresso.",
-        "Rota": [ "Adc"],
+        "Rota": ["Atirador"],
         "Funcao": "Atirador",
         "Imagem": "\\img\\campeoes\\caitlyn.jpg"
     },
     {
-        "Numero": 4,
+        "Numero": 19,
+        "Nome":  "Camille, a Sombra de Aço",
+        "Descricao": "Munida para agir além dos limites da lei, Camille é a chefe de inteligência do Clã Ferros e uma elegante agente de elite, responsável pelo bom funcionamento da máquina de Piltover e de Zaun, seu submundo. Adaptável e precisa, ela vê técnicas medíocres como uma vergonha que precisa ser consertada. Com uma mente tão afiada quanto suas lâminas, a busca de Camille por superioridade através de aprimoramentos hextec para seu corpo fez com que muitos se perguntassem se ela é agora mais máquina do que mulher.",
+        "Rota": ["Topo","Selva"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_camille.jpg"
+    },
+    {
+        "Numero": 20,
+        "Nome":  "Cassiopeia, o Abraço da Serpente",
+        "Descricao": "Cassiopeia é uma criatura mortal dedicada a manipular os outros para fazer suas vontades sinistras. A mais bela e mais nova filha da nobre família Du Couteau de Noxus aventurou-se pelas criptas profundas sob Shurima em busca de poderes ancestrais. Lá, ela foi mordida por um terrível guardião de uma tumba, cujo veneno a transformou em uma víbora predadora. Astuciosa e ágil, Cassiopeia agora desliza sob o véu da noite, petrificando seus inimigos com seu olhar nefasto.",
+        "Rota": ["Meio"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_cassiopeia.jpg"
+    },
+    {
+        "Numero": 21,
+        "Nome":  "Cho'Gath, o Terror do Vazio",
+        "Descricao": "A partir do momento em que Cho'Gath emergiu da terra para a luz do sol ofuscante de Runeterra, a besta foi motivada por pura fome insaciável. A mais perfeita expressão do desejo do Vazio de consumir toda a vida, a biologia complexa de Cho'Gath rapidamente converte matéria em crescimento corporal novo, aumentando sua massa e densidade muscular ou endurecendo sua carapaça externa como um diamante orgânico. Quando crescer não supre as necessidades dessa criatura do Vazio, ele vomita o material em excesso como espinhos afiados, deixando sua presa espetada e pronta para ser devorada mais tarde.",
+        "Rota": [ "Topo","Meio"],
+        "Funcao": "Tanque",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_chogath.jpg"
+    },
+    {
+        "Numero": 22,
+        "Nome":  "Corki, o Bombardeiro Ousado",
+        "Descricao": "Corki, o piloto yordle, ama duas coisas acima de qualquer outra: voar e seu glamoroso bigode... não necessariamente nessa ordem. Depois de deixar Bandópolis, ele se estabeleceu em Piltover e se apaixonou pelas máquinas maravilhosas que encontrou por lá. Ele se dedicou ao desenvolvimento de engenhocas voadoras, liderando uma força de defesa aérea de veteranos experientes conhecidos como os Serpentes Gritantes. Calmo sob fogo, Corki patrulha os céus ao redor de seu novo lar e nunca encontrou um problema que uma boa barragem de mísseis não pudesse resolver.",
+        "Rota": ["Meio"],
+        "Funcao": "Atirador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_corki.jpg"
+    },
+    {
+        "Numero": 23,
         "Nome":  "Darius, a Mão de Noxus",
         "Descricao": "Não há símbolo maior do poder de Noxus do que Darius, o mais temido e experiente comandante da nação. Vindo de origens humildes para se tornar a Mão de Noxus, ele corta seu caminho através dos inimigos do império; muitos dos quais são, inclusive, noxianos. Sabendo que ele nunca duvida da integridade de sua causa e que nunca hesita assim que seu machado é levantado, aqueles que desafiam o comandante da Legião Trifária não esperam por misericórdia.",
-        "Rota": [ "Topo"],
+        "Rota": ["Topo"],
         "Funcao": "Lutador",
         "Imagem": "\\img\\campeoes\\darius.jpg"
     },
     {
-        "Numero": 5,
+        "Numero": 24,
+        "Nome":  "Diana, o Escárnio da Lua",
+        "Descricao": "Empunhando sua espada lunar crescente, Diana luta como uma guerreira dos Lunari, um credo quase extinto nas terras ao redor do Monte Targon. Vestida com uma armadura brilhante da cor da neve de inverno noturna, ela é a personificação do poder da lua prateada. Dotada com a essência de um Aspecto de além do cume de Targon, Diana já não é mais totalmente humana e tem dificuldades para dominar seu poder e propósito neste mundo.",
+        "Rota": ["Meio","Selva"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_diana.jpg"
+    },
+    {
+        "Numero": 25,
+        "Nome":  "Dr. Mundo, o Louco de Zaun",
+        "Descricao": "Completamente maluco, tragicamente perigoso e terrivelmente roxo, Dr. Mundo é o que mantém muitos zaunitas dentro de casa nas noites mais escuras. Hoje se diz médico, mas ele já foi um paciente do manicômio mais infame de Zaun. Após ''curar'' toda a equipe do local, Dr. Mundo começou a atuar em sua nova profissão nos corredores vazios do lugar em que um dia fora tratado, repetindo os procedimentos extremamente antiéticos pelos quais ele mesmo havia passado. Munido de um armário cheio de remédios e nenhum conhecimento médico, ele fica mais monstruoso a cada nova injeção e continua instilando medo nos infelizes ''pacientes'' que passam perto de sua ''clínica''.",
+        "Rota": ["Topo"],
+        "Funcao": "Tanque",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_drmundo_v2.jpg"
+    },
+    {
+        "Numero": 26,
+        "Nome":  "Draven, o Carrasco de Noxus",
+        "Descricao": "Em Noxus, guerreiros conhecidos como Desafiadores lutam um contra o outro em uma arena onde sangue é derramado e a força é testada, mas nenhum foi tão celebrado como Draven. Antes um soldado, ele descobriu que as multidões apreciavam seu instinto pelo drama e sua habilidade suprema com seus machados giratórios. Viciado no espetáculo de sua própria perfeição impetuosa, Draven jurou derrotar qualquer que seja seu oponente para garantir que seu nome será cantado pelo império para todo o sempre.",
+        "Rota": ["Atirador"],
+        "Funcao": "Atirador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_draven.jpg"
+    },
+    {
+        "Numero": 27,
         "Nome":  "Ekko, o Rapaz que Estilhaçou o Tempo",
         "Descricao": "Um prodígio das ruas violentas de Zaun, Ekko manipula o tempo para reverter qualquer situação a seu favor. Usando sua própria invenção, o Revo-Z, ele explora as possíveis bifurcações da realidade para criar o momento perfeito. Embora valorize muito sua liberdade, quando algo ameaça seus amigos, ele não mede esforços para defendê-los. Para meros observadores, Ekko parece conseguir o impossível sempre de primeira.",
-        "Rota": [ "Meio", "Selva"],
+        "Rota": ["Meio", "Selva"],
         "Funcao": "Assassino",
         "Imagem": "\\img\\campeoes\\ekko.jpg"
     },
     {
-        "Numero": 6,
+        "Numero": 28,
+        "Nome":  "Elise, a Aranha Rainha",
+        "Descricao": "Elise é uma predadora mortal que vive em um palácio escuro e reservado nas profundezas da cidade mais antiga de Noxus. Ela já foi mortal um dia, dama de uma família antes poderosa, mas a mordida de uma aranha peçonhenta a transformou em algo belo, imortal e completamente desumano, uma criatura aracnídea que atrai vítimas ingênuas para sua teia. Para manter sua eterna juventude, Elise agora prefere se alimentar dos inocentes e descrentes, e são poucos os que conseguem resistir aos seus encantos.",
+        "Rota": ["Selva"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_elise.jpg"
+    },
+    {
+        "Numero": 29,
+        "Nome":  "Evelynn, o Abraço da Agonia",
+        "Descricao": "Nas ruelas sombrias de Runeterra, a criatura demoníaca Evelynn busca sua próxima vítima. Ela atrai presas com sua voluptuosa aparência de fêmea humana, mas assim que a vítima sucumbe ao seu charme, a verdadeira forma de Evelynn é revelada. A criatura então sujeita suas vítimas a um tormento inenarrável, gratificando-se com a dor alheia. Para ela, esses contatos são casinhos inocentes; Para o resto de Runeterra, são histórias macabras de encontros lascivos que deram errado e lembretes terríveis sobre o custo do desejo desenfreado.",
+        "Rota": ["Selva"],
+        "Funcao": "Assassino",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_evelynn.jpg"
+    },
+    {
+        "Numero": 30,
+        "Nome":  "Ezreal, o Explorador Pródigo",
+        "Descricao": "Um aventureiro arrojado, com um talento nato nas artes mágicas, Ezreal desbrava catacumbas soterradas, envolve-se com antigas maldições e supera com facilidade as situações mais improváveis. Sua coragem e ousadia não têm limites e ele prefere resolver as coisas no improviso, confiando parcialmente no seu talento, mas principalmente em sua mística luva shurimane, que ele usa para causar explosões arcanas devastadoras. Uma coisa é certa: quando Ezreal está por perto, lá vem problema. Ou lá vai. Ou já veio.",
+        "Rota": ["Atirador"],
+        "Funcao": "Atirador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_ezreal.jpg"
+    },
+    {
+        "Numero": 31,
         "Nome":  "Fiddlesticks, o Terror Ancestral",
         "Descricao": "Algo despertou em Runeterra. Algo ancestral. Algo terrível. O eterno terror conhecido como Fiddlesticks vaga pelos confins do mundo mortal, atraído por áreas dominadas por uma paranoia palpável, onde se alimenta de vítimas apavoradas. Com sua foice afiada, essa criatura malformada e desgastada colhe a própria essência do medo, deixando a mente dos desafortunados que sobrevivem ao seu ataque totalmente fragmentada. Muito cuidado com o som dos corvos, ou com os sussurros de uma figura que parece quase humana... pois Fiddlesticks está de volta.",
         "Rota": ["Selva", "Suporte"],
@@ -48,7 +248,23 @@
         "Imagem": "\\img\\campeoes\\fiddlesticks.jpg"
     },
     {
-        "Numero": 7,
+        "Numero": 32,
+        "Nome":  "Fiora, a Grande Duelista",
+        "Descricao": "A duelista mais temida de toda Valoran, Fiora é renomada tanto por suas maneiras bruscas e perspicácia quanto pela velocidade de sua rapieira de aço. Nascida na Casa Laurent no reino de Demacia, Fiora tomou o controle da família de seu pai no rastro de um escândalo que quase os destruiu. A reputação da Casa Laurent foi manchada, mas Fiora não mede esforços para restaurar a honra de sua família e devolvê-los a seu lugar de direito entre os melhores de Demacia.",
+        "Rota": ["Topo"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_fiora.jpg"
+    },
+    {
+        "Numero": 33,
+        "Nome":  "Fizz, o Trapaceiro das Marés",
+        "Descricao": "Fizz é um yordle anfíbio que vive entre os recifes que rodeiam Águas de Sentina. É comum que ele busque e devolva os dízimos jogados no mar por capitães supersticiosos, mas mesmo o mais velho dos marinheiros sabe que não é uma boa ideia irritá-lo. São muitas as histórias daqueles que subestimaram seu caráter escorregadio. Frequentemente confundido com algum tipo de espírito marinho imprevisível, ele comanda enormes bestas carnívoras das profundezas e se diverte confundindo tanto seus inimigos quanto seus aliados.",
+        "Rota": ["Meio"],
+        "Funcao": "Assassino",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_fizz.jpg"
+    },
+    {
+        "Numero": 34,
         "Nome":  "Galio, o Colosso",
         "Descricao": "Do lado de fora da reluzente cidade de Demacia, Galio, o colosso de pedra, vigia com zelo. Construído como bastião contra magos inimigos, ele geralmente permanece imóvel por décadas até que a presença de uma magia poderosa o desperte. Uma vez ativado, Galio aproveita bem o tempo, deleitando-se com a emoção de uma luta e da rara honra de defender seus compatriotas. Contudo, os triunfos dele são tanto doces quanto amargos, pois a magia que ele destrói é a mesma que o movimenta, e cada vitória o devolve à inércia.",
         "Rota": ["Meio", "Suporte"],
@@ -56,7 +272,55 @@
         "Imagem": "\\img\\campeoes\\galio.jpg"
     },
     {
-        "Numero": 8,
+        "Numero": 35,
+        "Nome":  "Gangplank, o Terror dos Doze Mares",
+        "Descricao": "Tão inesperado quanto brutal, o autointitulado Rei dos Ladrões conhecido como Gangplank é temido por todos os mares. Ele já reinou na cidade portuária de Águas de Sentina e, apesar de seu reinado ter terminado, existem aqueles que acreditam que isso só o tornou mais perigoso. Gangplank preferiria ver Águas de Sentina banhadas de sangue mais uma vez do que deixar que outro a controlasse. E agora, armado com pistola, sabre e barris de pólvora, ele está determinado a retomar o que perdeu.",
+        "Rota": ["Topo","Meio"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_gangplank.jpg"
+    },
+    {
+        "Numero": 36,
+        "Nome":  "Garen, o Poder de Demacia",
+        "Descricao": "Um guerreiro nobre e orgulhoso, Garen faz parte da Vanguarda Destemida. Popular entre seus companheiros e respeitado o suficiente por seus inimigos, sua reputação é nada mais do que o esperado de um herdeiro da prestigiosa família Stemmaguarda, encarregada de defender Demacia e seus ideais. Vestido com uma armadura resistente à magia e empunhando uma poderosa espada, Garen está sempre pronto para confrontar magos e feiticeiros no campo de batalha, em um verdadeiro furacão de aço virtuoso.",
+        "Rota": ["Topo"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_garen.jpg"
+    },
+    {
+        "Numero": 37,
+        "Nome":  "Gnar, o Yordle Pré-Histórico",
+        "Descricao": "Gnar é um yordle primitivo cujas artimanhas brincalhonas podem irromper em uma raiva infantil em um instante, transformando-o em uma besta gigantesca determinada a destruir. Congelada em Gelo Verdadeiro por milênios, essa criatura curiosa se libertou e agora saltita por um mundo mudado, que ela vê como exótico e maravilhoso. Encantado pelo perigo, Gnar atira tudo que puder nos seus inimigos, seja seu bumerangue ou um prédio próximo.",
+        "Rota": ["Topo"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_gnar.jpg"
+    },
+    {
+        "Numero": 38,
+        "Nome":  "Gragas, o Badernista",
+        "Descricao": "Igualmente alegre e imponente, Gragas é um gigante e arruaceiro mestre-cervejeiro em uma busca pessoal pelo mais perfeito caneco de cerveja. Vindo de partes desconhecidas, ele busca por ingredientes raros entre a vastidão intocada de Freljord, testando cada receita enquanto segue seu caminho. Frequente embriagado e extremamente impulsivo, ele é lendário pelas lutas de bar que começa, que quase sempre acabam em festas que duram a noite toda e em muitos danos de propriedade. Qualquer aparição de Gragas certamente será seguida de bebidas e destruição, nessa ordem.",
+        "Rota": ["Selva", "Meio"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_gragas.jpg"
+    },
+    {
+        "Numero": 39,
+        "Nome":  "Graves, o Foragido",
+        "Descricao": "Malcolm Graves, mercenário, apostador e bandido de renome, é um homem procurado em cada uma das cidades e impérios que visitou. Apesar do seu temperamento explosivo, ele é dono de uma noção rigorosa de honra entre criminosos, normalmente aplicada com o fogo da sua espingarda, Destino. Nos últimos anos, ele reconciliou uma parceria problemática com Twisted Fate e, juntos, eles prosperaram mais uma vez no tumulto do submundo criminoso de Águas de Sentina.",
+        "Rota": ["Selva"],
+        "Funcao": "Atirador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_graves-cigar.jpg"
+    },
+    {
+        "Numero": 40,
+        "Nome":  "Gwen, a Costureira Encantada",
+        "Descricao": "Uma boneca que ganhou vida por magia, Gwen empunha as mesmas ferramentas que um dia a criaram. Valorizando todo instante, ela carrega a força do amor de sua criadora a cada passo e comanda a Névoa Sagrada, uma magia protetora ancestral que abençoou a tesoura, as agulhas e a linha de costura que ela usa. Tudo é novidade para Gwen, mas ela continua alegre e determinada a lutar pelo bem que ainda resta nesse mundo abatido.",
+        "Rota": ["Topo", "Selva"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_gwen.jpg"
+    },
+    {
+        "Numero": 41,
         "Nome":  "Hecarim, a Sombra da Guerra",
         "Descricao": "Hecarim é a fusão espectral de homem e animal, amaldiçoado a cavalgar entre as almas dos vivos por toda a eternidade. Quando as Ilhas das Bênçãos caíram nas sombras, esse cavaleiro orgulhoso foi obliterado pelas energias destrutivas da Ruína, junto com toda sua cavalaria e suas montarias. Agora, assim que a Névoa Negra se espalha por Runeterra, ele lidera seu ataque devastador, deleitando-se com a matança e destruindo seus inimigos sob seus cascos de armadura.",
         "Rota": ["Selva"],
