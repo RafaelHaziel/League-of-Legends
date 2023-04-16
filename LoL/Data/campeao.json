@@ -326,5 +326,293 @@
         "Rota": ["Selva"],
         "Funcao": "Lutador",
         "Imagem": "\\img\\campeoes\\hecarim.jpg"
+    },
+    {
+        "Numero": 42,
+        "Nome":  "Heimerdinger, o Inventor Idolatrado",
+        "Descricao": "Um cientista brilhante, mesmo que excêntrico, o Professor Cecil B. Heimerdinger é um dos inventores mais inovadores e estimados que Piltover já conheceu. Incansável em seu trabalho ao ponto da obsessão neurótica, ele busca responder as questões mais impenetráveis do universo. Apesar de suas teorias frequentemente parecerem obscuras e esotéricas, Heimerdinger produziu algumas das máquinas mais miraculosas, sem mencionar letais, de Piltover e ajusta constantemente suas invenções para torná-las ainda mais eficientes.",
+        "Rota": ["Meio"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_heimerdinger.jpg"
+    },
+    {
+        "Numero": 43,
+        "Nome":  "Illaoi, a Sacerdotisa Cráquem",
+        "Descricao": "O poderoso porte físico de Illaoi só perde para sua fé indomável. Como profetisa do Grande Cráquem, ela usa um gigantesco totem dourado para arrancar o espírito de seus inimigos de seus corpos e estilhaçar a sua percepção da realidade. Todos os que desafiam a ''Portadora da Verdade de Nagacáburos'' logo descobrem que Illaoi nunca vai à luta sozinha — o deus da Ilha das Serpentes luta a seu lado.",
+        "Rota": ["Topo"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_illaoi.jpg"
+    },
+    {
+        "Numero": 44,
+        "Nome":  "Irelia, a Dançarina das Lâminas",
+        "Descricao": "A ocupação noxiana de Ionia produziu muitos heróis, mas nenhum era mais improvável do que a jovem Irelia de Navori. Treinada nas antigas danças de Ionia, ela adaptou sua arte à guerra, usando movimentos graciosos e cuidadosamente executados para levitar uma série de lâminas fatais. Após provar seu valor como guerreira, ela foi nomeada líder e representante da resistência e até hoje se dedica à preservação de sua terra natal.",
+        "Rota": ["Meio","Topo"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_irelia.jpg"
+    },
+    {
+        "Numero": 45,
+        "Nome":  "Ivern, o Pai do Verde",
+        "Descricao": "Ivern Bramblefoot, conhecido por muitos como o Protetor Verde, é um peculiar meio-homem, meio-árvore que vagueia pelas florestas de Runeterra, cultivando vida por onde ele passa. Ele conhece os segredos do mundo natural, e cultiva amizades profundas com tudo que cresce, voa e rasteja. Ivern caminha pela natureza, transmitindo sua estranha sabedoria a todos que ele encontra, enriquecendo as florestas e, ocasionalmente, confiando seus segredos a borboletas de língua solta.",
+        "Rota": ["Selva","Suporte"],
+        "Funcao": "Suporte",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_ivern.jpg"
+    },
+    {
+        "Numero": 46,
+        "Nome":  "Janna, a Fúria da Tormenta",
+        "Descricao": "Armada com o poder das ventanias de Runeterra, Janna é um misterioso e elemental espírito de vento que protege os desfavorecidos de Zaun. Alguns acreditam que Janna surgiu a partir dos clamores dos marinheiros de Runeterra, que rezavam por ventos mais amistosos enquanto navegavam por águas turbulentas e severas tempestades. Desde então, suas graças e sua proteção têm sido imploradas nas profundezas de Zaun, onde Janna se tornou um símbolo de esperança para os necessitados. Ninguém sabe onde nem quando ela pode aparecer, mas diversas vezes ela chega para ajudar.",
+        "Rota": ["Suporte"],
+        "Funcao": "Suporte",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_janna.jpg"
+    },
+    {
+        "Numero": 47,
+        "Nome":  "Jarvan IV, o Exemplo de Demacia",
+        "Descricao": "O Príncipe Jarvan, descendente da Dinastia Lumescudo, é o atual herdeiro do trono de Demacia. Criado para ser um exemplo das grandes virtudes de sua nação, ele é forçado a equilibrar as grandes expectativas colocadas sobre ele com seu próprio desejo de lutar nas linhas de frente. Jarvan inspira suas tropas com sua coragem temível e determinação altruísta, levantando a bandeira com as cores da família e revelando sua verdadeira força como futuro líder de seu povo.",
+        "Rota": ["Selva"],
+        "Funcao": "Tanque",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_jarvaniv.jpg"
+    },
+    {
+        "Numero": 48,
+        "Nome":  "Jax, o Grão-Mestre das Armas",
+        "Descricao": "Incomparável tanto por suas habilidades com armamentos incomuns quanto pelo seu sarcasmo mordaz, Jax é o último mestre de armas de Icathia conhecido. Depois de sua terra natal ter sido derrotada por sua própria arrogância ao libertar o Vazio, Jax e seu povo juraram proteger o pouco que restou. Com a magia se espalhando pelo mundo, essa ameaça dormente acordou novamente e agora Jax vaga por Valoran carregando a última chama de Icathia e testando todo guerreiro encontrar para descobrir se algum deles é forte o suficiente para lutar ao seu lado...",
+        "Rota": ["Topo"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_jax.jpg"
+    },
+    {
+        "Numero": 49,
+        "Nome":  "Jayce, o Defensor do Amanhã",
+        "Descricao": "Jayce é um brilhante inventor que dedicou sua vida a defender Piltover e sua implacável busca pelo progresso. Com seu martelo hextech transformador em mãos, Jayce usa sua força, coragem e considerável inteligência para proteger sua cidade natal. Embora seja aclamado pela cidade como herói, ele não gosta muito da atenção que o heroísmo traz. Mesmo assim, o coração de Jayce está no lugar certo e até aqueles que invejam suas habilidades naturais são gratos à forma como ele protege a Cidade do Progresso.",
+        "Rota": ["Topo","Meio"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_jayce.jpg"
+    },
+    {
+        "Numero": 50,
+        "Nome":  "Jhin, o Virtuoso",
+        "Descricao": "Jhin é um meticuloso psicopata criminoso que acredita que o assassinato é uma arte. Outrora um prisioneiro ioniano, mas libertado por membros obscuros do conselho regimental de Ionia, o assassino serial agora trabalha como assassino de seu conluio. Usando a própria arma como pincel, Jhin cria obras artisticamente brutais, horrorizando vítimas e espectadores. Ele sente um cruel prazer ao fazer suas encenações nefastas, tornando-o a escolha ideal para transmitir a mais poderosa das mensagens: o terror.",
+        "Rota": ["Atirador"],
+        "Funcao": "Atirador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_jhin.jpg"
+    },
+    {
+        "Numero": 51,
+        "Nome":  "Jinx, o Gatilho Desenfreado",
+        "Descricao": "Uma criminosa impulsiva e maníaca de Zaun, Jinx vive para disseminar o caos sem se preocupar com as consequências. Com um arsenal de armas mortais, ela detona as explosões mais altas e mais luminosas para deixar um rastro de destruição e pânico por onde passa. Jinx abomina o tédio e deixa alegremente sua marca caótica de pandemônio aonde quer que vá.",
+        "Rota": ["Atirador"],
+        "Funcao": "Atirador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_jinx.jpg"
+    },
+    {
+        "Numero": 52,
+        "Nome":  "K'Sante, o Orgulho de Nazumah",
+        "Descricao": "Corajoso e desafiador, K'Sante enfrenta feras colossais e Ascendentes cruéis para proteger seu lar, Nazumah — um cobiçado oásis no meio das areias de Shurima. Entretanto, após uma desavença com seu antigo parceiro, K'Sante entendeu que, para se tornar um guerreiro digno de liderar a cidade, primeiro ele deve aplacar seu desejo obstinado de sucesso. Somente depois disso ele poderá evitar as armadilhas do próprio orgulho e encontrar a sabedoria necessária para derrotar os monstros ferozes que ameaçam seu povo.",
+        "Rota": ["Topo"],
+        "Funcao": "Tanque",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_ksante.jpg"
+    },
+    {
+        "Numero": 53,
+        "Nome":  "Kai'sa, a Filha do Vazio",
+        "Descricao": "Capturada pelo Vazio quando era apenas uma criança, Kai'Sa conseguiu sobreviver por pura persistência e força de vontade. Suas experiências fizeram dela uma caçadora mortal e, para alguns, o prenúncio de um futuro que seria melhor não viver para ver. Inserida em uma desconfortável simbiose com uma carapaça viva do Vazio, é chegada a hora de decidir se ela perdoará os mortais que a chamam de monstro e derrotará a ameaçadora escuridão… ou se ela simplesmente os esquecerá, deixando o Vazio consumir o mundo que um dia também a deixou para trás.",
+        "Rota": ["Atirador"],
+        "Funcao": "Atirador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_kaisa.jpg"
+    },
+    {
+        "Numero": 54,
+        "Nome":  "Kalista, a Lança da Vingança",
+        "Descricao": "Um espectro de ira e retaliação, Kalista é o espírito imortal da vingança, um pesadelo blindado invocado da Ilhas das Sombras para caçar desertores e traidores. Os traídos podem clamar em sangue para serem vingados, mas Kalista apenas responde àqueles cuja causa ela julga serem dignos de suas habilidades. Aqueles que se tornam o foco da fúria de Kalista devem fazer as pazes com seu destino, pois qualquer pacto selado com a caçadora sombria só pode terminar com o fogo frio e penetrante de suas lanças de alma.",
+        "Rota": ["Atirador","Topo"],
+        "Funcao": "Atirador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_kalista.jpg"
+    },
+    {
+        "Numero": 55,
+        "Nome":  "Karma, a Iluminada",
+        "Descricao": "Nenhum mortal representa melhor as tradições espirituais de Ionia do que Karma. Ela é a incorporação de uma alma reencarnada inúmeras vezes, que leva todas as memórias acumuladas para cada nova vida e que foi agraciada com um poder que poucos compreendem. Nos períodos recentes de crise, ela fez tudo o que estava ao seu alcance pelo seu povo, mas sabe que a paz e a harmonia talvez só sejam possíveis a um custo considerável — tanto para ela quanto para sua amada terra.",
+        "Rota": ["Suporte"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_karma.jpg"
+    },
+    {
+        "Numero": 56,
+        "Nome": "Karthus, a Voz Mortal",
+        "Descricao": "Sendo o presságio do fim, Karthus é um espírito imortal cujas canções assombradoras são um prelúdio para o terror de sua aparição horripilante. Os vivos temem a eternidade dos mortos-vivos, mas Karthus vê apenas beleza e pureza em seu abraço, uma união perfeita de vida e morte. Quando Karthus emerge das Ilhas das Sombras, ele traz a alegria da morte aos mortais, como um apóstolo dos mortos-vivos.",
+        "Rota": ["Selva","Meio"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_karthus.jpg"
+    },
+    {
+        "Numero": 57,
+        "Nome": "Kassadin, o Andarilho do Vazio",
+        "Descricao": "Cortando uma trilha de fogo pelos lugares mais sombrios do mundo, Kassadin sabe que seus dias estão contados. Outrora um aventureiro e guia shurimane, ele escolheu criar uma família perto das tribos pacíficas do sul, até o dia em que sua vila foi consumida pelo Vazio. Ele jurou vingança, combinando inúmeros artefatos arcanos e tecnologias proibidas para a luta que estava por vir. Finalmente, Kassadin partiu para as terras abandonadas de Icathia, pronto para enfrentar qualquer criatura monstruosa do Vazio em busca do seu autoproclamado profeta, Malzahar.",
+        "Rota": ["Meio"],
+        "Funcao": "Assassino",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_kassadin.jpg"
+    },
+    {
+        "Numero": 58,
+        "Nome": "Katarina, a Lâmina Sinistra",
+        "Descricao": "Decisiva em seus julgamentos e letal em combate, Katarina é a assassina de maior calibre de Noxus. Filha mais velha do lendário General Du Couteau, Katarina é reconhecida por seus assassinatos eficientes contra inimigos desavisados. Sua ambição ardente a levou a buscar alvos extremamente protegidos, mesmo correndo o risco de colocar seus aliados em perigo; mas não importa a missão, Katarina não hesita ao executar seu dever no meio de um furacão de adagas serrilhadas.",
+        "Rota": ["Meio"],
+        "Funcao": "Assassino",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_katarina.jpg"
+    },
+    {
+        "Numero": 59,
+        "Nome": "Kayle, a Justa",
+        "Descricao": "Nascida de um Aspecto targonense no auge das Guerras Rúnicas, Kayle honrava o legado de sua mãe lutando por justiça com asas de chamas divinas. Ela e sua irmã gêmea, Morgana, foram as protetoras de Demacia por muitos anos, até Kayle se desiludir com as repetidas falhas dos mortais e abandonar de vez o plano mortal. Mesmo assim, reza a lenda que ela continua punindo malfeitores com suas espadas de fogo, e muitos esperam que um dia ela retorne…",
+        "Rota": ["Topo","Meio"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_kayle_v4.jpg"
+    },
+    {
+        "Numero": 60,
+        "Nome": "Kayn, o Ceifador das Sombras",
+        "Descricao": "Inigualável praticante da letal magia sombria, Shieda Kayn luta para alcançar seu verdadeiro destino: um dia comandar a Ordem das Sombras rumo a uma nova era de supremacia ioniana. Indiferente à maquiavélica degradação que ela causa em seu corpo e mente, ele empunha uma senciente arma darkin chamada Rhaast. Só duas coisas podem acontecer: ou Kayn faz a arma obedecê-lo... ou a foice maligna o consumirá completamente, preparando o terreno para a destruição de toda Runeterra.",
+        "Rota": ["Selva"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_kayn.jpg"
+    },
+    {
+        "Numero": 61,
+        "Nome": "Kennen, o Coração da Tempestade",
+        "Descricao": "Mais do que um protetor rápido como um raio do equilíbrio ioniano, Kennen é o único yordle membro da Kinkou. Apesar da sua estatura pequena e peluda, ele anseia por ir contra qualquer ameaça com uma tempestade desenfreada de shurikens e entusiasmo sem limites. Ao lado de seu mestre, Shen, Kennen patrulha o reino dos espíritos, utilizando energia elétrica devastadora para abater seus inimigos.",
+        "Rota": ["Topo"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_kennen.jpg"
+    },
+    {
+        "Numero": 62,
+        "Nome": "Kha'Zix, o Ceifador do Vazio",
+        "Descricao": "O Vazio cresce e o Vazio se adapta, e nenhuma de suas outras criaturas incorpora isso tão bem quanto Kha'Zix. A evolução é o que impulsiona a essência desse horror mutável, nascido para sobreviver e destruir os mais fortes. Qualquer momento de dificuldades em fazê-lo só o faz criar modos novos e mais efetivos de neutralizar e matar sua presa. Inicialmente uma fera irracional, a inteligência de Kha'Zix se desenvolveu tanto quanto sua forma. Agora, a criatura planeja suas caças e até faz uso do horror visceral que causa em suas vítimas.",
+        "Rota": ["Selva"],
+        "Funcao": "Assassino",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_khazix.jpg"
+    },
+    {
+        "Numero": 63,
+        "Nome": "Kindred, os Caçadores Eternos",
+        "Descricao": "Distintos, mas nunca separados, os Kindred representam as essências gêmeas da morte. O arco da Ovelha propicia uma rápida transição do mundo mortal para aqueles que aceitam seu destino. O Lobo caça aqueles que fogem de seu fim, entregando-lhes a violência derradeira de suas presas esmagadoras. Embora diferentes interpretações sobre a natureza dos Kindred circulem por toda Runeterra, todo mortal deve escolher a verdadeira face de sua morte.",
+        "Rota": ["Selva"],
+        "Funcao": "Atirador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_kindred.jpg"
+    },
+    {
+        "Numero": 64,
+        "Nome": "Kled, o Cavaleiro Intratável",
+        "Descricao": "Um guerreiro tão destemido quanto irascível, o yordle Kled representa a bravata furiosa de Noxus. Ele é um ícone amado pelos soldados do império, rejeitado por seus oficiais e abominado pela nobreza. Muitos dizem que Kled lutou em cada batalha que as legiões travaram, que ''adquiriu'' cada título militar e que nunca recuou de uma luta. Embora a veracidade dos detalhes seja normalmente questionável, uma parte de sua lenda é inegável: avançando em combate com Skaarl, sua montaria (des)confiável, Kled luta para proteger o que é dele... e para tornar seu o que conseguir.",
+        "Rota": ["Topo"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_kled.jpg"
+    },
+    {
+        "Numero": 65,
+        "Nome": "Kog'Maw, a Boca do Abismo",
+        "Descricao": "Vomitado para fora de uma aparição podre do Vazio nas profundezas das terras desertas de Icathia, Kog'Maw é uma criatura inquisitiva e pútrida com uma boca cáustica gigantesca. Essa criatura do Vazio em particular precisa morder e babar em qualquer coisa que alcançar para realmente compreendê-la. Apesar de não ser intrinsecamente mau, a ingenuidade cativante de Kog'Maw é perigosa, pois é precedida, em geral, de um frenesi alimentício, não para alimentá-lo, mas para satisfazer sua curiosidade sem fim.",
+        "Rota": ["Atirador"],
+        "Funcao": "Atirador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_kogmaw.jpg"
+    },
+    {
+        "Numero": 66,
+        "Nome": "Leblanc, a Farsante",
+        "Descricao": "Misteriosa mesmo para os outros membros da Rosa Negra, LeBlanc é somente um dos muitos nomes de uma mulher pálida que tem manipulado pessoas e eventos desde os primeiros dias de Noxus. Usando sua magia para espelhar a si mesma, a feiticeira pode aparecer para qualquer um, em qualquer lugar e mesmo em vários lugares ao mesmo tempo. Sempre planejando às escondidas, as verdadeiras motivações de LeBlanc são tão inescrutáveis quanto sua identidade inconstante.",
+        "Rota": ["Meio"],
+        "Funcao": "Assassino",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_leblanc.jpg"
+    },
+    {
+        "Numero": 67,
+        "Nome": "Lee Sin, o Monge Cego",
+        "Descricao": "Um mestre das artes marciais ancestrais de Ionia, Lee Sin é um lutador de princípios fortes que canaliza a essência do espírito do dragão para enfrentar qualquer desafio. Apesar de ter perdido a visão há muitos anos, o monge guerreiro dedicou sua vida a proteger sua terra natal contra quem ousasse interferir em seu sagrado equilíbrio. Os inimigos que subestimam seu comportamento meditativo são confrontados por seus punhos ardentes e chutes mirabolantes.",
+        "Rota": ["Selva"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_leesin.jpg"
+    },
+    {
+        "Numero": 68,
+        "Nome": "Leona, a Alvorada Radiante",
+        "Descricao": "Impregnada pelas chamas do sol, Leona é uma guerreira sagrada de Solari que defende o Monte Targon com sua Lâmina Zênite e a Proteção da Aurora. Sua pele brilha com fogo solar enquanto seus olhos queimam com o poder do Aspecto celestial que nela existe. Protegida em uma armadura dourada e carregando o terrível fardo de um conhecimento ancestral, Leona traz luz a alguns e morte a outros.",
+        "Rota": ["Suporte"],
+        "Funcao": "Tanque",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_leona.jpg"
+    },
+    {
+        "Numero": 69,
+        "Nome": "Lillia, o Florir Receoso",
+        "Descricao": "Extremamente tímida, Lillia, a faunesa feérica, percorre saltitante as florestas de Ionia. Sempre escondida a pouca distância dos humanos — cuja misteriosa natureza lhe causa fascínio e, ao mesmo tempo, receio — Lillia espera descobrir por que os sonhos deles não chegam mais à Árvore dos Sonhos. Agora, ela percorre Ionia com um cajado mágico nas mãos em busca dos sonhos não realizados das pessoas. Somente assim, a própria Lillia poderá florescer e ajudar os humanos a resolverem seus medos e encontrarem seu brilho interior. Iiip!",
+        "Rota": ["Selva"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\lillia.jpg"
+    },
+    {
+        "Numero": 70,
+        "Nome": "Lissandra, a Bruxa Gélida",
+        "Descricao": "A magia de Lissandra transforma o poder bruto do gelo em algo sombrio e terrível. Com a força do seu gelo sombrio, ela faz mais do que congelar — ela perfura e destrói todos que se opões a ela. Entre os aterrorizados habitantes do norte, ela é conhecida como a ''Bruxa Gélida''. Mas a verdade é muito mais sinistra: Lissandra é uma corruptora da natureza que conspira para instalar uma era do gelo no mundo.",
+        "Rota": ["Meio"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_lissandra.jpg"
+    },
+    {
+        "Numero": 71,
+        "Nome": "Lucian, o Purificador",
+        "Descricao": "Lucian, um Sentinela da Luz, é um caçador de espíritos imortais que usa suas pistolas relicárias para persegui-los implacavelmente e, por fim, aniquilá-los. Após o assassinato de sua esposa pelas mãos do espectro Thresh, Lucian embarcou em uma jornada de vingança. Mas mesmo com a volta de sua amada ao reino dos vivos, sua ira permanece inalterada. Impiedoso e obstinado, Lucian não hesitará em proteger os vivos contra os horrores da Névoa Negra.",
+        "Rota": ["Atirador","Meio"],
+        "Funcao": "Atirador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_lucian.jpg"
+    },
+    {
+        "Numero": 72,
+        "Nome": "Lulu, a Fada Feiticeira",
+        "Descricao": "A maga yordle Lulu é conhecida por conjurar ilusões de sonhos e criaturas fantasiosas enquanto vaga por Runeterra com seu silfo companheiro, Pix. Lulu transforma a realidade por capricho, distorcendo o que ela vê como restrições desse banal reino físico. Apesar de alguns considerarem sua magia no mínimo anormal, e no máximo perigosa, ela acredita que todos merecem um toque de encanto.",
+        "Rota": ["Suporte"],
+        "Funcao": "Suporte",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_lulu.jpg"
+    },
+    {
+        "Numero": 73,
+        "Nome": "Lux, a Dama da Luz",
+        "Descricao": "Luxanna Stemmaguarda nasceu em Demacia, um reino insular onde habilidades mágicas são vistas com medo e desconfiança. Capaz de dobrar a luz à sua vontade, ela cresceu temendo ser descoberta e exilada, e foi forçada a manter seus poderes em segredo a fim de preservar o status de nobreza de sua família. Apesar de tudo, o otimismo e resiliência de Lux a levaram a aceitar seus talentos únicos e agora ela os utiliza em segredo a serviço de sua terra natal.",
+        "Rota": ["Meio","Suporte"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_lux.jpg"
+    },
+    {
+        "Numero": 74,
+        "Nome": "Malphite, o Fragmento do Monolito",
+        "Descricao": "Uma criatura gigantesca de pedra viva, Malphite pena para impor ordem abençoada em um mundo caótico. Nascido como um fragmento servil de um obelisco de outro mundo conhecido como Monolito, ele usou sua tremenda força elemental para manter e proteger seu progenitor, mas, no fim, falhou. O único sobrevivente da destruição que se seguiu, Malphite agora suporta o povo macio de Runeterra com seus temperamentos inconstantes enquanto luta para encontrar um novo papel digno do último de sua espécie.",
+        "Rota": ["Topo"],
+        "Funcao": "Tanque",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_malaphite.jpg"
+    },
+    {
+        "Numero": 75,
+        "Nome": "Malzahar, o Profeta do Vazio",
+        "Descricao": "Um vidente fanático dedicado à unificação de toda a vida, Malzahar realmente acredita que o Vazio que recém surgiu é o caminho para a salvação de Runeterra. Na desolação do deserto de Shurima, ele seguiu as vozes que sussurravam em sua mente por todo o caminho até a antiga Icathia. Entre as ruínas daquela terra, ele olhou no coração sombrio do próprio Vazio e recebeu novos poderes e propósito. Agora Malzahar vê a si mesmo como um pastor encarregado de trazer os outros para o rebanho… ou de libertar as criaturas do Vazio que vivem nas profundezas.",
+        "Rota": ["Meio"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_malzahar.jpg"
+    },
+    {
+        "Numero": 76,
+        "Nome": "Maokai, o Ente Sinistro",
+        "Descricao": "Maokai é um grande ente enfurecido que luta contra os terrores sobrenaturais da Ilhas das Sombras. Ele se transformou em uma força vingativa depois que um cataclisma mágico destruiu seu lar, sobrevivendo apenas através das Águas da Vida que estão infusas em seu cerne. Outrora um espírito pacífico da natureza, Maokai agora batalha furiosamente para banir os flagelos da não-vida das Ilhas das Sombras e restaurar a antiga beleza do seu lar.",
+        "Rota": ["Selva","Suporte"],
+        "Funcao": "Tanque",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_maokai.jpg"
+    },
+    {
+        "Numero": 77,
+        "Nome": "Master Yi, o Espadachim Wuju",
+        "Descricao": "Master Yi treinou seu corpo e afiou sua mente para que pensamento e ação se tornassem quase um só. Embora ele prefira recorrer à violência como último recurso, a leveza e a velocidade de sua espada garantem uma resolução sempre veloz. Como um dos últimos praticantes da arte ioniana do Wuju, Yi dedicou sua vida a preservar o legado de seu povo, avaliando potenciais discípulos com as Sete Lentes da Perspicácia para identificar qual deles era o mais digno.",
+        "Rota": ["Selva"],
+        "Funcao": "Assassino",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_masteryi.jpg"
     }
 ]
