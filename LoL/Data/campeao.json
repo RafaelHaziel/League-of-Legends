@@ -614,5 +614,325 @@
         "Rota": ["Selva"],
         "Funcao": "Assassino",
         "Imagem": "\\img\\campeoes\\RiotX_ChampionList_masteryi.jpg"
+    },
+    {
+        "Numero": 78,
+        "Nome": "Milio, a Chama Gentil",
+        "Descricao": "Milio é um menino de Ixtal com um coração enorme e caloroso. Apesar da pouca idade, dominou o axioma do fogo e descobriu algo novo: o fogo tranquilizante. Com esse novo poder, Milio quer ajudar sua família a escapar do exílio unindo-se aos Yun Tal, a exemplo do que sua avó fez um dia. Tendo viajado pelas selvas de Ixtal até a capital de Ixaocan, Milio agora se prepara para enfrentar o Vidálio e se juntar aos Yun Tal, sem saber das provações — e perigos — que lhe aguardam.",
+        "Rota": ["Suporte"],
+        "Funcao": "Suporte",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_milio.jpg"
+    },
+    {
+        "Numero": 79,
+        "Nome": "Miss Fortune, a Caçadora de Recompensas",
+        "Descricao": "Uma capitã de Águas de Sentina famosa por sua aparência e impiedade, Sarah Fortune chama atenção entre os criminosos calejados da cidade portuária. Ainda criança, ela viu o Rei dos Ladrões, Gangplank, assassinar sua família, um crime do qual ela se vingou com violência anos depois, explodindo seu navio com ele ainda a bordo. Aqueles que a subestimarem enfrentarão uma oponente sedutora e imprevisível... E, possivelmente, uma bala ou duas nas entranhas.",
+        "Rota": ["Atirador","Suporte"],
+        "Funcao": "Atirador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_missfortune.jpg"
+    },
+    {
+        "Numero": 80,
+        "Nome": "Mordekaiser, o Ravenã de Ferro",
+        "Descricao": "Morto e renascido duas vezes, Mordekaiser é um cruel comandante de uma época perdida. Ele usa a arte da necromancia para aprisionar almas e torná-las submissas pela eternidade. Hoje em dia, poucos se lembram das primeiras conquistas ou conhecem a real dimensão do poder de Mordekaiser. Porém, algumas almas ancestrais ainda se lembram, e temem que um dia ele volte para reivindicar seu domínio... tanto sobre os mortos quanto sobre os vivos.",
+        "Rota": ["Topo"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_mordekaiser_v2.jpg"
+    },
+    {
+        "Numero": 81,
+        "Nome": "Morgana, a Caída",
+        "Descricao": "Dividida entre sua natureza mortal e celestial, Morgana prendeu as asas para preservar sua humanidade e inflige sua dor e amargura nos desonestos e corruptos. Ela rejeita as leis e tradições que considera injustas e luta pela verdade nas sombras de Demacia com escudos e correntes de fogo sombrio, ainda que alguns tentem reprimi-la. Acima de tudo, Morgana acredita que até os banidos e exilados podem, um dia, se erguer.",
+        "Rota": ["Suporte","Meio"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_morgana.jpg"
+    },
+    {
+        "Numero": 82,
+        "Nome": "Nami, a Conjuradora das Marés",
+        "Descricao": "Uma jovem e obstinada vastaya dos mares, Nami é uma das primeiras integrantes da tribo Marai a sair das ondas e se aventurar na terra seca, onde seus antigos acordos com os targonianos foram quebrados. Com nenhuma outra opção, ela decidiu que seria ela mesma quem completaria o ritual sagrado que garantiria a segurança de seu povo. Dentro do caos dessa nova era, Nami enfrenta um futuro incerto com coragem e determinação, usando seu Conjurador das Marés para invocar a própria força dos oceanos.",
+        "Rota": ["Suporte"],
+        "Funcao": "Suporte",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_nami.jpg"
+    },
+    {
+        "Numero": 83,
+        "Nome": "Nasus, o Curador das Areias",
+        "Descricao": "Nasus é um majestoso Ascendente com cabeça de chacal da antiga Shurima; uma figura heroica considerada semideus pelo povo do deserto. Ferozmente inteligente, ele foi um guardião do conhecimento e estrategista sem igual cuja sabedoria guiou o antigo império de Shurima em direção à grandeza por muitos séculos. Após a queda do império, ele colocou a si mesmo em exílio, tornando-se mais que uma lenda. Agora que a antiga cidade de Shurima ressurgiu, ele retornou, determinado a assegurar que ela nunca mais caia.",
+        "Rota": ["Topo"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_nasus.jpg"
+    },
+    {
+        "Numero": 84,
+        "Nome": "Nautilus, o Titã das Profundezas",
+        "Descricao": "O golias armadurado conhecido como Nautilus, uma lenda solitária, tão velha quantos as primeiras docas que afundaram em Águas de Sentina, vaga pelas águas escuras da costa das Ilhas da Chama Azul. Levado por uma traição esquecida, ele ataca sem aviso, balançando sua enorme âncora para salvar os náufragos e arrastar os gananciosos para sua perdição. Dizem que ele surge para aqueles que se esquecem de pagar o “dízimo de Águas de Sentina”, puxando-os para baixo das ondas junto com ele: um lembrete envolto em ferro de que ninguém pode escapar das profundezas.",
+        "Rota": ["Suporte"],
+        "Funcao": "Tanque",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_nautilus.jpg"
+    },
+    {
+        "Numero": 85,
+        "Nome": "Neeko, a Camaleoa Curiosa",
+        "Descricao": "Nativa de uma tribo vastaya há muito esquecida, Neeko consegue se misturar em qualquer multidão, assumindo a aparência dos outros e até mesmo absorvendo parte de seu estado emocional para identificar de imediato quem é amigo ou inimigo. Nunca se sabe onde Neeko pode estar, nem mesmo quem pode ser, mas aqueles com a intenção de machucá-la logo verão suas verdadeiras cores e toda a força e magia de seu espírito primitivo agindo contra eles.",
+        "Rota": ["Meio"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_neeko.jpg"
+    },
+    {
+        "Numero": 86,
+        "Nome": "Nidalee, a Caçadora Bestial",
+        "Descricao": "Criada na mais profunda das selvas, Nidalee é uma rastreadora especialista que pode se transformar em um puma à sua vontade. Nem animal nem mulher, ela defende com ferocidade seu território de todo e qualquer invasor, com armadilhas cuidadosamente colocadas e lanças arremessadas. Ela fere sua presa antes de pular nela em sua forma felina, e dizem os sortudos que sobrevivem que ela é uma mulher selvagem com instintos aguçados e garras ainda mais afiadas...",
+        "Rota": ["Selva"],
+        "Funcao": "Assassino",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_nidalee.jpg"
+    },
+    {
+        "Numero": 87,
+        "Nome": "Nilah, a Alegria Irrestrita",
+        "Descricao": "Nilah, uma guerreira asceta de uma terra distante, busca os oponentes mais gigantescos e mortais do mundo para poder desafiá-los e destruí-los. Tendo conquistado seu poder após enfrentar o demônio da alegria, que estava aprisionado há muito tempo, ela não sente outra emoção senão um júbilo incessante — um preço pequeno a ser pago pela força vasta que possui agora. Canalizando a forma líquida do demônio numa lâmina de poder inigualável, a combatente desafia antigas ameaças esquecidas no tempo.",
+        "Rota": ["Atirador"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_nilah.jpg"
+    },
+    {
+        "Numero": 88,
+        "Nome": "Nocturne, o Eterno Pesadelo",
+        "Descricao": "Uma fusão demoníaca provinda dos pesadelos que assombram todas as mentes sencientes, a coisa conhecida como Nocturne se tornou uma força primordial de puro terror. De aspecto caótico e líquido, ele é uma sombra sem rosto com olhos frios e armada com lâminas enfurecidas. Depois de se libertar do mundo dos espíritos, Nocturne desceu para o mundo dos vivos para se alimentar de um terror que só pode ser cultivado na verdadeira escuridão.",
+        "Rota": ["Selva"],
+        "Funcao": "Assassino",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_nocturne.jpg"
+    },
+    {
+        "Numero": 89,
+        "Nome": "Nunu e Willump, o Garoto e seu Yeti",
+        "Descricao": "Era uma vez um garoto que queria provar a todos que poderia ser um herói indo matar um terrível monstro... mas que no fim descobriu que esse monstro era um solitário yeti mágico que só queria um amigo. Unidos por um antigo poder e compartilhando um amor por bolas de neve, Nunu e Willump agora vagavam ferozmente através de toda Freljord, soprando vida em aventuras imaginárias. Eles tinham esperança de que em algum lugar encontrariam a mãe de Nunu. Se pudessem salvá-la, talvez eles realmente fossem heróis afinal...",
+        "Rota": ["Selva"],
+        "Funcao": "Tanque",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_nunu.jpg"
+    },
+    {
+        "Numero": 90,
+        "Nome": "Olaf, o Berserker",
+        "Descricao": "Uma força desenfreada de destruição, Olaf e seus machados não querem nada além de morrer em um combate glorioso. Vindo da brutal península de Freljord, Lokfar, ele recebeu uma profecia que dizia que ele teria uma morte pacífica: o destino de um covarde e um grande insulto entre seu povo. Procurando pela morte e movido por sua fúria, ele destruiu tudo em seu caminho, massacrando dezenas de guerreiros e bestas lendárias em busca de um oponente que pudesse pará-lo. Agora, um executor brutal da Garra do Inverno, ele busca seu fim nas grandes guerras que estão por vir.",
+        "Rota": ["Topo","Selva"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_olaf.jpg"
+    },
+    {
+        "Numero": 91,
+        "Nome": "Orianna, a Donzela Mecânica",
+        "Descricao": "Orianna já foi uma menina curiosa de carne e osso, mas agora é uma maravilha tecnológica composta inteiramente de engrenagens. Ela ficou terrivelmente doente depois de um acidente em um dos distritos inferiores de Zaun e seu corpo enfraquecido teve que ser substituído por mecanismos requintados, peça por peça. Acompanhada por uma esfera de cobre extraordinária que ela construiu para companhia e proteção, Orianna agora é livre para explorar as maravilhas de Piltover e além.",
+        "Rota": ["Meio"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_orianna.jpg"
+    },
+    {
+        "Numero": 92,
+        "Nome": "Ornn, o Fogo sob a Montanha",
+        "Descricao": "Ornn é o espírito Freljordano da forja e da artesania. Ele trabalha na solidão de uma enorme fornalha, construída a marteladas por entre as cavernas de lava do vulcão Pedra-Lar. Lá, ele aquece caldeirões de pedra fundida para purificar metais e forjar itens de qualidade insuperável. Quando outras divindades — principalmente Volibear — descem à Terra para intervir nos assuntos dos mortais, Ornn aparece para colocar esses seres impetuosos em seu devido lugar, seja com seu fiel martelo ou com o poder ardente das próprias montanhas.",
+        "Rota": ["Topo"],
+        "Funcao": "Tanque",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_ornn.jpg"
+    },
+    {
+        "Numero": 93,
+        "Nome": "Pantheon, a Lança Indestrutível",
+        "Descricao": "Antes um relutante portador do Aspecto da Guerra, Atreus conseguiu sobreviver quando o poder celestial dentro dele foi morto, recusando-se a sucumbir a um golpe que arrancou estrelas do céu. Com o tempo, ele aprendeu a usar o poder de sua própria mortalidade e da persistente resiliência que veio com ela. Hoje, Atreus se opõe a tudo o que é divino com o renascimento de um novo Pantheon, e sua inabalável determinação é o que alimenta as armas do antigo Aspecto no campo de batalha.",
+        "Rota": ["Meio"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_pantheon.jpg"
+    },
+    {
+        "Numero": 94,
+        "Nome": "Poppy, a Guardiã do Martelo",
+        "Descricao": "Runeterra não está em falta de campeões valentes, mas poucos são tão tenazes quanto Poppy. Carregando o lendário martelo de Orlon, uma arma que tem o dobro de seu tamanho, essa yordle determinada tem passado muitos anos procurando em segredo pelo lendário “Herói de Demacia”, dono legítimo do martelo. Até lá, ela cumpre seu dever entrando em batalhas e forçando os inimigos do reino a recuarem com cada giro de seu martelo.",
+        "Rota": ["Topo","Selva"],
+        "Funcao": "Tanque",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_poppy.jpg"
+    },
+    {
+        "Numero": 95,
+        "Nome": "Pyke, o Estripador das Águas Sangrentas",
+        "Descricao": "Um arpoador renomado vindo das Docas da Matança nas Águas de Sentina, Pyke deveria ter encontrado sua morte na barriga de um gigante Peixe-Jaula... mas, ainda assim, ele retornou. Agora, vagando pelos becos úmidos de sua cidade natal, ele usa seus novos dons sobrenaturais para trazer um rápido e grotesco fim para aqueles que fazem fortuna explorando os outros. Hoje, os mesmos habitantes da cidade que se orgulham de caçar monstros estão sendo caçados por um.",
+        "Rota": ["Suporte"],
+        "Funcao": "Suporte",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_pyke.jpg"
+    },
+    {
+        "Numero": 96,
+        "Nome": "Qiyana, a Imperatriz dos Elementos",
+        "Descricao": "Na cidade-selva de Ixaocan, Qiyana planeja seu próprio e implacável caminho até o trono de Yun Tal. Última na fila para suceder seus pais, ela enfrenta qualquer um no seu caminho com uma confiança impetuosa e domínio sem precedentes sobre a magia elemental. Com a própria terra obedecendo a todos os seus comandos, Qiyana se vê como a maior elementalista na história de Ixaocan. Por esse motivo, julga-se merecedora não apenas de uma cidade, mas de todo um império.",
+        "Rota": ["Meio","Selva"],
+        "Funcao": "Assassino",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_qiyana.jpg"
+    },
+    {
+        "Numero": 97,
+        "Nome": "Quinn, as Asas de Demacia",
+        "Descricao": "Quinn é uma cavaleira patrulheira de elite de Demacia que cumpre missões perigosas no coração do território inimigo. Ela e sua águia lendária, Valor, possuem um vínculo inquebrável e seus inimigos muitas vezes são mortos antes de notarem que não estão lutando contra um, mas dois dos maiores heróis do reino. Ágil e acrobática quando necessário, Quinn mira com sua balestra, enquanto Valor, do alto, marca seus alvos esquivos, fazendo deles uma dupla letal no campo de batalha.",
+        "Rota": ["Topo"],
+        "Funcao": "Atirador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_quinn.jpg"
+    },
+    {
+        "Numero": 98,
+        "Nome": "Rakan, o Charmoso",
+        "Descricao": "Inconsistente e charmoso, Rakan é um conhecido encrenqueiro vastaya e o melhor dançarino de batalha da história da tribo Lhotlan. Para os humanos das montanhas de Ionia, seu nome sempre foi sinônimo de festivais mirabolantes, festas agitadas e música subversiva. Poucos suspeitariam que este artista itinerante e energético é parceiro da rebelde Xayah e totalmente dedicado à causa dela.",
+        "Rota": ["Suporte"],
+        "Funcao": "Suporte",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_rakan.jpg"
+    },
+    {
+        "Numero": 99,
+        "Nome": "Rammus, o Tatu Blindado",
+        "Descricao": "Idolatrado por muitos, dispensado por alguns e misterioso para todos, Rammus é um ser curioso e enigmático. Protegido por um casco espetado, ele inspira teorias cada vez mais divergentes sobre sua origem por onde quer que passe — de semideus, a oráculo sagrado, a uma fera qualquer que foi transformada por magia. Qualquer que seja a verdade, Rammus mantém seus pareceres e não interrompe seu caminho por ninguém enquanto vaga sem rumo pelo deserto shurimane.",
+        "Rota": ["Selva"],
+        "Funcao": "Tanque",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_rammus.jpg"
+    },
+    {
+        "Numero": 100,
+        "Nome": "Rek'Sai, a Escavadora do Vazio",
+        "Descricao": "A predadora perfeita, Rek'Sai é uma criatura do Vazio sem piedade que anda por túneis no subsolo para emboscar e devorar vítimas desavisadas. Sua fome insaciável já destruiu regiões inteiras do outrora gigantesco império de Shurima. Mercadores, vendedores, até mesmo caravanas blindadas, preferem fazer longos desvios para evitarem a ela e seus filhotes no seu território de caça. Todos sabem que, se Rek'Sai for avistada no horizonte, a morte certamente virá do subsolo.",
+        "Rota": ["Selva"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_reksai.jpg"
+    },
+    {
+        "Numero": 101,
+        "Nome": "Rell, a Dama de Ferro",
+        "Descricao": "Produto de um experimento brutal nas mãos da Rosa Negra, Rell é uma arma humana rebelde que está determinada a destruir Noxus. Sua infância foi repleta de sofrimento e horror; a jovem teve que suportar procedimentos indescritíveis para aperfeiçoar e fortalecer seu controle mágico do metal – até que, um dia, empreendeu uma fuga violenta, matando muitos de seus captores no processo. Agora, Rell é tida como criminosa e ataca qualquer soldado noxiano que apareça diante dela. Ao mesmo tempo, procura sobreviventes de sua antiga academia, defendendo os fracos enquanto despacha violentamente seus antigos supervisores para a morte.",
+        "Rota": ["Suporte"],
+        "Funcao": "Tanque",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_rell_v2.jpg"
+    },
+    {
+        "Numero": 102,
+        "Nome": "Renata Glasc, a Baronesa da Química",
+        "Descricao": "Renata Glasc emergiu das cinzas de seu antigo lar com nada além da pesquisa alquímica de seus pais e seu próprio nome. Décadas se passaram, e ela se tornou a Baronesa da Química mais rica de Zaun, uma magnata que consolidou seu poder ligando os interesses dos outros aos seus próprios. Trabalhe com ela e receberá uma recompensa imensurável. Trabalhe contra ela e viva para se arrepender. Mas, uma hora ou outra, todos acabam ao lado dela.",
+        "Rota": ["Suporte"],
+        "Funcao": "Suporte",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_renata_glasc_v5.jpg"
+    },
+    {
+        "Numero": 103,
+        "Nome": "Renekton, o Carniceiro das Areias",
+        "Descricao": "Renekton é um aterrorizante e furioso ser Ascendente dos desertos escaldantes de Shurima. Ele já foi o guerreiro mais estimado de todo o seu império, levando os exércitos da nação a inúmeras vitórias. No entanto, após a queda do império, Renekton foi enterrado nas areias e, lentamente, enquanto o mundo girava e mudava, ele sucumbia à loucura. Novamente liberto, ele é consumido pelo desejo de encontrar e matar seu irmão Nasus, a quem culpa pelos séculos que passou na escuridão graças à própria loucura.",
+        "Rota": ["Topo","Meio"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_renekton.jpg"
+    },
+    {
+        "Numero": 104,
+        "Nome": "Rengar, o Acossador da Alcateia",
+        "Descricao": "Rengar é um feroz caçador de troféus vastaya que gosta da emoção proporcionada pela caça e pelo abate de criaturas perigosas. Ele vasculha o mundo em busca das feras mais perigosas que pode encontrar, procurando principalmente por Kha'Zix, a criatura do vazio que arrancou seu olho. Rengar não persegue suas presas por fome nem por glória, mas pela simples beleza da caçada.",
+        "Rota": ["Selva"],
+        "Funcao": "Assassino",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_rengar.jpg"
+    },
+    {
+        "Numero": 105,
+        "Nome": "Riven, a Exilada",
+        "Descricao": "Outrora mestra das espadas nos esquadrões de Noxus, agora Riven é uma expatriada em uma terra que um dia já tentou conquistar. Depois de alcançar os altos escalões do exército usando a força de sua convicção e sua brutal eficiência, ela foi recompensada com uma lâmina rúnica lendária e sua própria milícia. No entanto, no fronte ioniano, a fé de Riven em sua terra natal foi testada e, no fim, quebrada. Tendo cortado todos os laços com o império, agora ela busca seu lugar em um mundo devastado, mesmo diante de rumores de que a própria Noxus passou por uma transformação...",
+        "Rota": ["Topo","Meio"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_riven.jpg"
+    },
+    {
+        "Numero": 106,
+        "Nome": "Rumble, a Ameaça Mecânica",
+        "Descricao": "Rumble é um jovem inventor irritadiço. Usando nada além de suas próprias mãos e uma pilha de sucata, o yordle briguento construiu um mecha colossal montado com um arsenal de arpões eletrificados e foguetes incendiários. Apesar de outros rirem de suas criações de ferro-velho, Rumble não se importa. Afinal, é ele que tem um cospe-fogo.",
+        "Rota": ["Topo","Meio"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_rumble.jpg"
+    },
+    {
+        "Numero": 107,
+        "Nome": "Ryze, o Mago Rúnico",
+        "Descricao": "Considerado pela grande maioria como o mago mais habilidoso de Runeterra, Ryze é um arquimago ancião e amargo que carrega um enorme peso. Dotado de um enorme poder arcano e de uma notável estrutura física, ele busca incansavelmente pelas Runas Globais, que são fragmentos de magia pura que um dia criaram o mundo a partir do nada. Ele deve recuperar esses artefatos antes que eles caiam em mãos erradas, pois Ryze conhece bem os horrores que eles podem infligir em Runeterra.",
+        "Rota": ["Meio"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_ryze.jpg"
+    },
+    {
+        "Numero": 108,
+        "Nome": "Samira, a Rosa do Deserto",
+        "Descricao": "Samira encara a morte nos olhos com confiança inabalável, procurando diversão e adrenalina aonde quer que vá. Depois que seu lar em Shurima foi destruído quando ainda era criança, ela encontrou sua verdadeira vocação em Noxus, onde conquistou fama como a guerreira valente e estilosa que aceitava missões arriscadas do mais alto calibre. Empunhando pistolas de pólvora negra e uma espada personalizada, Samira prospera em circunstâncias de vida ou morte, eliminando – com estilo e rapidez – qualquer um que cruze seu caminho.",
+        "Rota": ["Atirador"],
+        "Funcao": "Atirador",
+        "Imagem": "\\img\\campeoes\\samira.jpg"
+    },
+    {
+        "Numero": 109,
+        "Nome": "Sejuani, a Fúria do Norte",
+        "Descricao": "Sejuani é a mãe de guerra Glacinata brutal e implacável da Garra do Inverno, uma das tribos mais temidas de Freljord. A sobrevivência de seu povo é uma batalha constante e desesperada contra os elementos, forçando-os a pilhar noxianos, demacianos e avarosianos para sobreviver aos invernos severos. A própria Sejuani lidera os ataques mais perigosos, montada no seu javali drüvask, Bristle, usando seu mangual de Gelo Verdadeiro para congelar e despedaçar seus inimigos.",
+        "Rota": ["Selva","Topo"],
+        "Funcao": "Tanque",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_sejuani.jpg"
+    },
+    {
+        "Numero": 110,
+        "Nome": "Senna, a Redentora",
+        "Descricao": "Amaldiçoada desde a infância a ser perseguida pelo fenômeno sobrenatural da Névoa Negra, Senna se juntou à ordem dos Sentinelas da Luz e lutou bravamente contra seu destino. Ela acabou sendo morta e teve sua alma aprisionada em uma lanterna pelo cruel espectro Thresh. No entanto, por se recusar a perder as esperanças, ela aproveitou seu tempo dentro da lanterna para aprender a usar a Névoa, ressurgindo com uma nova vida e sabendo que jamais voltaria a ser a mesma. Agora, armada com as forças da luz e da escuridão, Senna busca exterminar a Névoa Negra, atraindo o fenômeno para si mesma a cada disparo de sua arma relicária e salvando as almas perdidas que ali residem.",
+        "Rota": ["Suporte"],
+        "Funcao": "Atirador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_senna.jpg"
+    }
+    {
+        "Numero": 111,
+        "Nome": "Seraphine, a Cantora Sonhadora",
+        "Descricao": "Nascida em Piltover e filha de zaunitas, Seraphine é capaz de ouvir a alma das pessoas. O mundo canta para ela, e ela canta em resposta. Esses sons a perturbavam quando era mais jovem, mas hoje ela os usa como inspiração, transformando o caos em uma sinfonia. A cantora se apresenta nas cidades irmãs para lembrar a seus cidadãos que eles não estão sozinhos, que são mais fortes juntos e que, aos olhos dela, o potencial deles é ilimitado.",
+        "Rota": ["Suporte"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\Seraphine_0.jpg"
+    },
+    {
+        "Numero": 112,
+        "Nome": "Sett, o Chefe",
+        "Descricao": "Líder de parte do próspero submundo do crime em Ionia, Sett deve todo o seu sucesso à guerra contra Noxus. Mesmo estreando como um simples desafiante nas arenas de combate em Navori, ele logo conquistou notoriedade com sua força bruta e capacidade de suportar dor contínua e extrema. Agora, após superar todos os combatentes locais, Sett chegou até o topo e reina sobre as arenas onde um dia lutara.",
+        "Rota": ["Topo"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\Sett_0.jpg"
+    },
+    {
+        "Numero": 113,
+        "Nome": "Shaco, o Bufão Demoníaco",
+        "Descricao": "Criado anos atrás como um brinquedo para um príncipe solitário, Shaco, a marionete encantada, agora se deleita com assassinatos e desordem. Corrompido por magia das trevas e pela perda de seu dono querido, o boneco que já fora gentil agora encontra prazer somente na miséria das próprias almas que ele atormenta. Ele usa brinquedos e truques simples para conseguir efeitos mortais, achando os resultados de seus “jogos” sangrentos hilários. E para aqueles que escutam uma risada sombria na calada da noite, o Bufão Demoníaco pode tê-los marcado como seu próximo brinquedo.",
+        "Rota": ["Selva"],
+        "Funcao": "Assassino",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_shaco.jpg"
+    },
+    {
+        "Numero": 114,
+        "Nome": "Shen, o Olho do Crepúsculo",
+        "Descricao": "Para os guerreiros ionianos sigilosos conhecidos como Kinkou, Shen, o Olho do Crepúsculo, é um líder. Ele busca permanecer livre da confusão das emoções, preconceito ou ego, caminhando pelo caminho nunca visto do julgamento imparcial entre o reino dos espíritos e o mundo físico. Incumbido de impor harmonia entre os dois, Shen empunha lâminas de aço e energia arcana contra qualquer um que ameaçar o equilíbrio.",
+        "Rota": ["Topo"],
+        "Funcao": "Tanque",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_shen.jpg"
+    },
+    {
+        "Numero": 115,
+        "Nome": "Shyvana, a Meio-Dragão",
+        "Descricao": "Shyvana é uma criatura com a mágica de um fragmento de runa queimando em seu coração. Apesar de normalmente parecer humanoide, ela pode mudar para sua forma verdadeira de um temível dragão, incinerando seus inimigos com seu sopro de chamas. Depois de salvar a vida do príncipe herdeiro, Jarvan IV, Shyvana agora serve, mesmo que desconfortavelmente, na sua guarda real, lutando para encontrar aceitação entre o povo receoso de Demacia.",
+        "Rota": ["Selva"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_shyvana.jpg"
+    },
+    {
+        "Numero": 116,
+        "Nome": "Singed, o Químico Louco",
+        "Descricao": "Singed é um alquimista zaunita de intelecto inigualável, que devotou sua vida a ultrapassar os limites do conhecimento; e nenhum preço, nem sua própria sanidade, é alto demais. Existe cura para sua loucura? Suas misturas raramente falham, mas, para muitos, Singed perdeu qualquer noção da humanidade, deixando uma trilha tóxica de miséria e terror no seu caminho.",
+        "Rota": ["Topo"],
+        "Funcao": "Tanque",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_singed.jpg"
+    },
+    {
+        "Numero": 117,
+        "Nome": "Sion, o Colosso Morto-Vivo",
+        "Descricao": "Um herói de guerra de uma era passada, Sion era reverenciado em Noxus por ter estrangulado a vida de um rei demaciano com suas próprias mãos. Mas o esquecimento lhe foi negado quando foi ressuscitado para servir seu império, mesmo na sua morte. Seu massacre indiscriminado levou qualquer um que estivesse em seu caminho, sem importar sua lealdade, provando que ele não possui mais nada de sua antiga humanidade. Mesmo assim, com armadura bruta pregada em carne apodrecida, Sion continua a investir na batalha em total abandono, lutando para se lembrar do seu verdadeiro ser entre cada ataque de seu machado.",
+        "Rota": ["Topo"],
+        "Funcao": "Tanque",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_sion.jpg"
     }
 ]
