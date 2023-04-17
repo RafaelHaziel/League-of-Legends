@@ -878,7 +878,7 @@
         "Rota": ["Suporte"],
         "Funcao": "Atirador",
         "Imagem": "\\img\\campeoes\\RiotX_ChampionList_senna.jpg"
-    }
+    },
     {
         "Numero": 111,
         "Nome": "Seraphine, a Cantora Sonhadora",
@@ -934,5 +934,69 @@
         "Rota": ["Topo"],
         "Funcao": "Tanque",
         "Imagem": "\\img\\campeoes\\RiotX_ChampionList_sion.jpg"
+    },
+    {
+        "Numero": 118,
+        "Nome": "Sivir, a Mestra de Batalha",
+        "Descricao": "Sivir é uma renomada caçadora de recompensas e capitã mercenária que manipula o comércio nos desertos de Shurima. Armada com sua lendária lâmina em cruz adornada, ela lutou e venceu incontáveis batalhas por aqueles que podem pagar seu preço exorbitante. Conhecida por sua resolução audaz e ambição sem fim, ela se orgulha de recuperar tesouros secretos das perigosas tumbas de Shurima — por um bom preço. Com forças anciãs remexendo os ossos da própria Shurima, Sivir encontra-se dividida entre destinos conflitantes.",
+        "Rota": ["Atirador"],
+        "Funcao": "Atirador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_sivir.jpg"
+    },
+    {
+        "Numero": 119,
+        "Nome": "Skarner, a Vanguarda de Cristal",
+        "Descricao": "Skarner é um imenso escorpião cristalino de um vale escondido de Shurima. Parte da antiga raça dos Brackern, Skarner e seus semelhantes são conhecidos por seu grande conhecimento e profunda conexão com a terra, pois suas almas são infundidas com poderosos cristais vivos que mantêm as memórias de seus ancestrais. Em uma era muito antiga, os Brackern entraram em hibernação para evitar uma destruição mágica imprevista, mas eventos ameaçadores recentes despertaram Skarner. Sendo o único Brackern acordado, ele luta para proteger seus semelhantes daqueles que buscam lhes fazer mal.",
+        "Rota": ["Selva"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_skarner.jpg"
+    },
+    {
+        "Numero": 120,
+        "Nome": "Sona, a Mestra das Cordas",
+        "Descricao": "Sona é um dos maiores prodígios em etwahl de cordas em Demacia, falando somente através de seus acordes graciosos e de suas árias vibrantes. Seu comportamento refinado cativou os nobres, apesar de muitos suspeitarem que suas melodias fascinantes realmente emanem magia, um tabu em Demacia. Silenciosa com desconhecidos, mas compreendida de alguma forma por companheiros próximos, Sona dedilha suas harmonias não somente para aliviar a dor de seus aliados, mas também para derrubar inimigos desavisados.",
+        "Rota": ["Suporte"],
+        "Funcao": "Suporte",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_sona.jpg"
+    },
+    {
+        "Numero": 121,
+        "Nome": "Soraka, a Filha das Estrelas",
+        "Descricao": "Uma andarilha vinda de dimensões celestiais além do Monte Targon, Soraka desistiu de sua imortalidade para proteger as raças mortais de seus instintos mais violentos. Ela pretende espalhar as virtudes da compaixão e da misericórdia a todos que encontra, curando até mesmo aqueles que desejam seu mal. E apesar de ter visto todas as dificuldades deste mundo, Soraka ainda acredita que o povo de Runeterra não alcançou todo seu potencial.",
+        "Rota": ["Suporte"],
+        "Funcao": "Suporte",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_soraka.jpg"
+    },
+    {
+        "Numero": 122,
+        "Nome": "Swain, o Grande General Noxiano",
+        "Descricao": "Jericho Swain é o líder visionário de Noxus, uma nação expansionista que venera apenas a força. Apesar de ter sido abatido e mutilado nas guerras ionianas, onde perdeu o braço esquerdo, ele tomou o controle do império com uma determinação implacável... e uma nova mão demoníaca. Agora, Swain comanda os esquadrões da linha de frente, marchando contra uma escuridão que se aproxima e que somente ele pode ver – em vislumbres capturados por corvos sombrios dos cadáveres à sua volta. Em um turbilhão de sacrifícios e segredos, o maior segredo de todos é que o verdadeiro inimigo vem de dentro.",
+        "Rota": ["Suporte","Meio"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_swain.jpg"
+    },
+    {
+        "Numero": 123,
+        "Nome": "Sylas, o Abjugado",
+        "Descricao": "Criado em um dos bairros mais pobres de Demacia, Sylas de Dregbourne se tornou o símbolo do lado mais sombrio da Grande Cidade. Quando criança, sua habilidade de identificar magia chamou a atenção de importantes caçadores de magos, que depois o aprisionaram por ter se virado contra eles. Finalmente livre, agora Sylas vive como um rígido revolucionário, usando a magia das pessoas ao seu redor para destruir o reino ao qual servia… e o grupo de magos exilados que o segue só faz crescer.",
+        "Rota": ["Meio","Selva"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_sylas.jpg"
+    },
+    {
+        "Numero": 124,
+        "Nome": "Syndra, a Soberana Sombria",
+        "Descricao": "Syndra é uma temida maga ioniana com um poder incrível ao seu dispor. Quando criança, ela causava pavor nos anciões da aldeia com sua magia imprudente e indomada. Mandada embora para aprender a controlar seus poderes, ela terminou descobrindo que seu suposto mentor estava reprimindo suas habilidades. Transformando seus sentimentos de traição e mágoa em obscuras esferas de energia, Syndra jurou destruir todos que tentarem controlá-la.",
+        "Rota": ["Meio"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_syndra.jpg"
+    },
+    {
+        "Numero": 125,
+        "Nome": "Tahm Kench, o Rei do Rio",
+        "Descricao": "Conhecido por muitos nomes ao longo da história, Tahm Kench viaja pelas águas de Runeterra alimentando seu insaciável apetite com o sofrimento alheio. Apesar de parecer particularmente encantador e orgulhoso, ele vaga pelo reino físico como um andarilho em busca de presas desavisadas. Sua língua pode atordoar até o guerreiro mais blindado a uma grande distância, e cair em sua barriga retumbante é como cair em um abismo do qual não há esperança de sair.",
+        "Rota": ["Topo"],
+        "Funcao": "Suporte",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_tahmkench.jpg"
     }
 ]
