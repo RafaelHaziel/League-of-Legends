@@ -69,7 +69,7 @@
         "Descricao": "Emergindo da sombra do luar com suas armas em mãos, Aphelios abate os inimigos de sua fé em absoluto silêncio, comunicando-se apenas pela destreza de sua mira e pelo disparo de cada arma. Embora viva sob o efeito de um veneno que o emudeceu, ele é guiado por sua irmã Alune, que habita um santuário distante de onde invoca um arsenal de armas de pedra da lua para ajudá-lo. Enquanto a lua brilhar no céu, Aphelios nunca estará sozinho.",
         "Rota": ["Atirador"],
         "Funcao": "Atirador",
-        "Imagem": "\\img\\campeoes\\aphelios.jpg"
+        "Imagem": "\\img\\campeoes\\aphelios.png"
     },
     {
         "Numero": 10,
@@ -549,7 +549,7 @@
         "Descricao": "Extremamente tímida, Lillia, a faunesa feérica, percorre saltitante as florestas de Ionia. Sempre escondida a pouca distância dos humanos — cuja misteriosa natureza lhe causa fascínio e, ao mesmo tempo, receio — Lillia espera descobrir por que os sonhos deles não chegam mais à Árvore dos Sonhos. Agora, ela percorre Ionia com um cajado mágico nas mãos em busca dos sonhos não realizados das pessoas. Somente assim, a própria Lillia poderá florescer e ajudar os humanos a resolverem seus medos e encontrarem seu brilho interior. Iiip!",
         "Rota": ["Selva"],
         "Funcao": "Lutador",
-        "Imagem": "\\img\\campeoes\\lillia.jpg"
+        "Imagem": "\\img\\campeoes\\Lillia_0.png"
     },
     {
         "Numero": 70,
@@ -861,7 +861,7 @@
         "Descricao": "Samira encara a morte nos olhos com confiança inabalável, procurando diversão e adrenalina aonde quer que vá. Depois que seu lar em Shurima foi destruído quando ainda era criança, ela encontrou sua verdadeira vocação em Noxus, onde conquistou fama como a guerreira valente e estilosa que aceitava missões arriscadas do mais alto calibre. Empunhando pistolas de pólvora negra e uma espada personalizada, Samira prospera em circunstâncias de vida ou morte, eliminando – com estilo e rapidez – qualquer um que cruze seu caminho.",
         "Rota": ["Atirador"],
         "Funcao": "Atirador",
-        "Imagem": "\\img\\campeoes\\samira.jpg"
+        "Imagem": "\\img\\campeoes\\samira.png"
     },
     {
         "Numero": 109,
@@ -885,7 +885,7 @@
         "Descricao": "Nascida em Piltover e filha de zaunitas, Seraphine é capaz de ouvir a alma das pessoas. O mundo canta para ela, e ela canta em resposta. Esses sons a perturbavam quando era mais jovem, mas hoje ela os usa como inspiração, transformando o caos em uma sinfonia. A cantora se apresenta nas cidades irmãs para lembrar a seus cidadãos que eles não estão sozinhos, que são mais fortes juntos e que, aos olhos dela, o potencial deles é ilimitado.",
         "Rota": ["Suporte"],
         "Funcao": "Mago",
-        "Imagem": "\\img\\campeoes\\Seraphine_0.jpg"
+        "Imagem": "\\img\\campeoes\\Seraphine_0.png"
     },
     {
         "Numero": 112,
@@ -893,7 +893,7 @@
         "Descricao": "Líder de parte do próspero submundo do crime em Ionia, Sett deve todo o seu sucesso à guerra contra Noxus. Mesmo estreando como um simples desafiante nas arenas de combate em Navori, ele logo conquistou notoriedade com sua força bruta e capacidade de suportar dor contínua e extrema. Agora, após superar todos os combatentes locais, Sett chegou até o topo e reina sobre as arenas onde um dia lutara.",
         "Rota": ["Topo"],
         "Funcao": "Lutador",
-        "Imagem": "\\img\\campeoes\\Sett_0.jpg"
+        "Imagem": "\\img\\campeoes\\Sett_0.png"
     },
     {
         "Numero": 113,
@@ -1085,7 +1085,7 @@
         "Descricao": "Udyr, o mais poderoso andarilho espiritual vivo, comunga com todos os espíritos de Freljord, seja compreendendo empaticamente suas necessidades, ou canalizando e transformando a energia etérea deles em seu próprio estilo de luta primevo. Ele busca o equilíbrio interior, para que sua mente não se perca entre as de outrem, mas também o equilíbrio exterior. A terra mística de Freljord só poderá prosperar com o amadurecimento que advém do conflito e da luta, e Udyr sabe que sacrifícios devem ser feitos para afastar o sossego e a estagnação.",
         "Rota": ["Selva"],
         "Funcao": "Lutador",
-        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_udyr.jpg"
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_udyr_v2.jpg"
     },
     {
         "Numero": 137,
@@ -1173,7 +1173,7 @@
         "Descricao": "Para aqueles que ainda o veneram, Volibear é a forma manifestada da tempestade. Destrutivo, selvagem e implacavelmente obstinado, ele já existia antes mesmo que os mortais andassem sobre a tundra de Freljord, protegendo as terras que ele e seus irmãos semideuses criaram. Com um ódio profundo pela civilização e pela fraqueza inerente a ela, Volibear luta para recuperar os velhos costumes de quando a terra era selvagem e o sangue jorrava livremente. Ele enfrenta todos aqueles que ousam entrar em seu caminho com dentes, garras e dominação estrondosa.",
         "Rota": ["Topo"],
         "Funcao": "Lutador",
-        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_volibear.jpg"
+        "Imagem": "\\img\\campeoes\\Volibear_0.png"
     },
     {
         "Numero": 148,
@@ -1189,7 +1189,7 @@
         "Descricao": "Wukong é um trapaceiro vastaya que usa sua força, agilidade e inteligência para confundir os oponentes e deixar a situação a seu favor. Depois de encontrar uma eterna amizade no guerreiro conhecido como Master Yi, Wukong se tornou o último aprendiz da ancestral arte marcial conhecida como Wu Ju. Armado com um cajado encantado, Wukong tenta evitar que Ionia caia em ruína.",
         "Rota": ["Selva","Topo"],
         "Funcao": "Lutador",
-        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_wukong.jpg"
+        "Imagem": "\\img\\campeoes\\wukong.png"
     },
     {
         "Numero": 150,
@@ -1229,7 +1229,7 @@
         "Descricao": "Em vida, ele foi Yone; meio-irmão de Yasuo e um respeitado aluno da escola de espadachins de seu vilarejo. Mas, ao morrer pelas mãos do irmão, ele se viu perseguido por uma entidade maligna do reino espiritual e foi forçado a exterminá-la com sua própria espada. Agora, condenado a usar uma máscara demoníaca com o rosto da entidade, Yone busca incansavelmente essas criaturas para tentar entender o que ele mesmo se tornou.",
         "Rota": ["Meio","Topo"],
         "Funcao": "Assassino",
-        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_yone.jpg"
+        "Imagem": "\\img\\campeoes\\Yone_0.png"
     },
     {
         "Numero": 155,
