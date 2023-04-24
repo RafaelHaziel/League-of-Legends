@@ -998,5 +998,309 @@
         "Rota": ["Topo"],
         "Funcao": "Suporte",
         "Imagem": "\\img\\campeoes\\RiotX_ChampionList_tahmkench.jpg"
+    },
+    {
+        "Numero": 126,
+        "Nome": "Taliyah, a Tecelã de Pedras",
+        "Descricao": "Taliyah é uma maga nômade de Shurima, dividida entre sua empolgação juvenil e suas grandes responsabilidades. Ela cruzou quase toda Valoran em uma jornada para conhecer a verdadeira natureza de seus próprios poderes, apesar de ter retornado recentemente para proteger sua tribo. Há aqueles que já interpretaram sua compaixão como fraqueza e pagaram o preço por isso, pois, debaixo do comportamento juvenil de Taliyah, existe uma determinação forte o suficiente para mover montanhas e um espírito feroz o suficiente para fazer a terra tremer.",
+        "Rota": ["Meio"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_ialiyah.jpg"
+    },
+    {
+        "Numero": 127,
+        "Nome": "Talon, a Sombra da Lâmina",
+        "Descricao": "Talon é a adaga na escuridão, um assassino impiedoso capaz de atacar sem aviso e escapar antes que qualquer alarme soe. Ele construiu uma reputação perigosa nas ruas brutais de Noxus, onde foi forçado a lutar, matar e roubar para sobreviver. Adotado pela notória família Du Couteau, ele agora usa suas habilidades mortais seguindo os comandos do império, assassinando líderes inimigos, capitães e heróis… além de qualquer noxiano tolo o suficiente para ganhar o desprezo de seus mestres.",
+        "Rota": ["Meio","Selva"],
+        "Funcao": "Assassino",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_talon.jpg"
+    },
+    {
+        "Numero": 128,
+        "Nome": "Taric, o Escudo de Valoran",
+        "Descricao": "Taric é o Aspecto do Protetor, portando um incrível poder como o guardião da vida, do amor e da beleza de Runeterra. Punido por faltar ao cumprimento de seu dever e exilado de Demacia, sua terra natal, Taric subiu o Monte Targon em busca de redenção, mas acabou por descobrir um chamado maior dentre as estrelas. Imbuído do poder ancestral de Targon, o Escudo de Valoran agora mantém vigilância contra a pérfida corrupção do Vazio.",
+        "Rota": ["Suporte"],
+        "Funcao": "Suporte",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_taric.jpg"
+    },
+    {
+        "Numero": 129,
+        "Nome": "Teemo, o Explorador Veloz",
+        "Descricao": "Indiferente até aos obstáculos mais perigosos e ameaçadores, Teemo vasculha o mundo com infinito entusiasmo e animação. Um yordle com uma inabalável moral que se orgulha de seguir o Código dos Escoteiros de Bandópolis, às vezes com tanta dedicação que não se toca das possíveis consequências de suas ações. Embora alguns duvidem da existência dos escoteiros, uma coisa é certa: nunca se deve duvidar das convicções de Teemo.",
+        "Rota": ["Topo"],
+        "Funcao": "Atirador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_teemo.jpg"
+    },
+    {
+        "Numero": 130,
+        "Nome": "Thresh, o Guardião das Correntes",
+        "Descricao": "Sádico e astuto, Thresh é um espírito ambicioso e incansável das Ilhas das Sombras. Ele já foi guardião de incontáveis segredos arcanos, mas acabou sucumbindo a poderes maiores do que a vida e a morte. Agora, Thresh vive atormentando e corrompendo vítimas de forma lenta e dolorosamente criativa. Seus alvos sofrem muito além de seus corpos mortais, pois Thresh aflige as próprias almas, aprisionando-as em sua lanterna maldita para torturá-las por toda a eternidade.",
+        "Rota": ["Suporte"],
+        "Funcao": "Suporte",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_thresh.jpg"
+    },
+    {
+        "Numero": 131,
+        "Nome": "Tristana, a Artilheira Yordle",
+        "Descricao": "Apesar de muitos outros yordles focarem sua energia em descobertas, invenções ou simplesmente travessuras, Tristana sempre se inspirou nas aventuras de grandes guerreiros. Ela ouviu muito sobre Runeterra, suas facções e suas guerras, e acreditava que sua raça também poderia se tornar digna de lendas. Pisando no mundo pela primeira vez, ela pegou seu canhão de confiança, Boomer, e agora salta para a batalha com coragem e otimismo inabaláveis.",
+        "Rota": ["Atirador"],
+        "Funcao": "Atirador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_tristana.jpg"
+    },
+    {
+        "Numero": 132,
+        "Nome": "Trundle, o Rei dos Trolls",
+        "Descricao": "Trundle é um troll gigantesco e traiçoeiro com uma tendência particularmente perversa, e não há nada que ele não possa submeter a cacetadas, nem mesmo a própria Freljord. Violentamente territorial, ele persegue qualquer um tolo o suficiente de entrar em seu domínio. Então, com seu enorme porrete de Gelo Verdadeiro, ele gela seus inimigos até os ossos e os empala com pilares dentados congelados, rindo enquanto eles sangram na tundra.",
+        "Rota": ["Selva"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_trundle.jpg"
+    },
+    {
+        "Numero": 133,
+        "Nome": "Tryndamere, o Rei Bárbaro",
+        "Descricao": "Carregado por fúria e raiva desenfreadas, Tryndamere galgou seu caminho através de Freljord, desafiando abertamente os maiores guerreiros do norte em preparo para os dias sombrios que virão. O bárbaro furioso já procurou por vingança pela aniquilação de seu clã, mas recentemente ele encontrou uma companhia em Ashe, a mãe de guerra de Avarosa, além de um lar entre seu povo. Sua força quase desumana e resistência são lendárias, e elas permitiram que ele e seus aliados conquistassem muitas vitórias contra as maiores adversidades.",
+        "Rota": ["Topo","Meio"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_tryndamere.jpg"
+    },
+    {
+        "Numero": 134,
+        "Nome": "Twisted Fate, o Mestre das Cartas",
+        "Descricao": "Twisted Fate é um infame trapaceiro que apostou e encantou tudo em seu caminho por boa parte do mundo, conquistando a inimizade e admiração tanto de ricos quanto tolos. Ele raramente leva coisas a sério, saudando cada dia com um sorriso zombeteiro e elegância negligente. Twisted Fate sempre tem um ás na manga, não importa como.",
+        "Rota": ["Meio"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_twistedfate.jpg"
+    },
+    {
+        "Numero": 135,
+        "Nome": "Twitch, o Semeador da Peste",
+        "Descricao": "Um rato zaunita empesteado de nascença e um apreciador da imundície por paixão, Twitch não tem medo de sujar as patas. Mirando com uma balestra embebida em químicos no centro do coração dourado de Piltover, ele jurou mostrar àqueles na cidade de cima quão imundos eles realmente são. Sempre à espreita, quando ele não está se esgueirando no Sumidouro, ele está cavando fundo no lixo dos outros por tesouros descartados… e talvez um sanduíche bolorento.",
+        "Rota": ["Atirador","Selva"],
+        "Funcao": "Atirador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_twitch.jpg"
+    },
+    {
+        "Numero": 136,
+        "Nome": "Udyr, o Andarilho Espiritual",
+        "Descricao": "Udyr, o mais poderoso andarilho espiritual vivo, comunga com todos os espíritos de Freljord, seja compreendendo empaticamente suas necessidades, ou canalizando e transformando a energia etérea deles em seu próprio estilo de luta primevo. Ele busca o equilíbrio interior, para que sua mente não se perca entre as de outrem, mas também o equilíbrio exterior. A terra mística de Freljord só poderá prosperar com o amadurecimento que advém do conflito e da luta, e Udyr sabe que sacrifícios devem ser feitos para afastar o sossego e a estagnação.",
+        "Rota": ["Selva"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_udyr.jpg"
+    },
+    {
+        "Numero": 137,
+        "Nome": "Urgot, o Encouraçado",
+        "Descricao": "Na época em que era um poderoso carrasco noxiano, Urgot foi traído pelo império para o qual havia tirado tantas vidas. Aprisionado em correntes de ferro, ele foi forçado a aprender o verdadeiro significado da força na Draga — uma mina carcerária nas profundezas de Zaun. Após emergir de um desastre que espalhou o caos por toda a cidade, ele se tornou uma figura imponente no submundo criminoso da cidade. Hoje ele usa as mesmas correntes que o aprisionaram para erguer suas vítimas e seu objetivo é expurgar todos os seres indignos do seu novo lar, tornando-o um crisol de dor.",
+        "Rota": ["Topo"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_urgot.jpg"
+    },
+    {
+        "Numero": 138,
+        "Nome": "Varus, a Flecha da Vingança",
+        "Descricao": "Um dos antigos darkin, Varus era um assassino mortal que amava atormentar seus inimigos, levando-os quase à insanidade antes de disparar a flecha mortal. Ele foi aprisionado no final da Grande Guerra dos Darkin, mas fugiu, séculos depois, na carne recomposta de dois caçadores ionianos que o libertaram involuntariamente, condenando-o a carregar o arco que contém suas essências. Agora Varus caça aqueles que o aprisionaram para decretar sua vingança brutal, mas as almas mortais dentro dele ainda resistem a cada passo do caminho.",
+        "Rota": ["Atirador"],
+        "Funcao": "Atirador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_varus.jpg"
+    },
+    {
+        "Numero": 139,
+        "Nome": "Vayne, a Caçadora Noturna",
+        "Descricao": "Shauna Vayne é uma caçadora de monstros demaciana mortal e implacável que dedicou sua vida a encontrar e destruir o monstro que assassinou sua família. Armada com uma balestra em seu pulso e com um coração cheio de vingança, ela só é realmente feliz quando está matando praticantes ou criações das artes obscuras, atacando das sombras com um turbilhão de dardos de prata.",
+        "Rota": ["Atirador"],
+        "Funcao": "Atirador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_vayne.jpg"
+    },
+    {
+        "Numero": 140,
+        "Nome": "Veigar, o Pequeno Mestre do Mal",
+        "Descricao": "Veigar, um mestre entusiasta da feitiçaria das trevas, aderiu a poderes dos quais poucos mortais se aproximam. Um habitante inconformado de Bandópolis, ele desejava ultrapassar as limitações da magia yordle, se voltando, então, para os textos arcanos que permaneceram escondidos por milhares de anos. Agora uma criatura teimosa com uma fascinação sem fim pelos mistérios do universo, Veigar é constantemente subestimado por outros. E mesmo que ele acredite ser verdadeiramente mau, ele possui um senso de ética interior que leva alguns a se perguntarem sobre suas verdadeiras motivações.",
+        "Rota": ["Meio","Atirador"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_veigar.jpg"
+    },
+    {
+        "Numero": 141,
+        "Nome": "Velkoz, o Olho do Vazio",
+        "Descricao": "Não é claro se Vel'Koz foi a primeira criatura do Vazio a aparecer em Runeterra, mas certamente nunca houve outra que se igualasse ao seu nível de compreensão cruel e calculista. Enquanto sua raça devora ou perverte tudo ao seu redor, ele busca, em vez disso, examinar e estudar o domínio físico, assim como os estranhos seres guerreiros que habitam nele, por quaisquer fraquezas que o Vazio possa explorar. Mas Vel'Koz está longe de ser um observador passivo e é capaz de atacar ameaças com plasma mortal ou desfazer o próprio tecido do mundo.",
+        "Rota": ["Suporte"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_velkoz.jpg"
+    },
+    {
+        "Numero": 142,
+        "Nome": "Vex, a Melancolista",
+        "Descricao": "Em meio à escuridão das Ilhas das Sombras, uma solitária yordle se move com pesar, abrindo caminho pela névoa espectral, satisfeita em viver nas trevas. Com uma poderosa sombra no seu encalço e uma fonte inesgotável de mazelas nas costas, Vex vive num mundinho de agonia que ela mesma criou, longe da alegria repulsiva do mundo dos 'normais'. Apesar de não ser a mais ambiciosa das yordles, perto dela a cor e a felicidade não têm vez. Com sua indisposição mágica, ela afasta qualquer possível intrometido.",
+        "Rota": ["Meio"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_vex.jpg"
+    },
+    {
+        "Numero": 143,
+        "Nome": "Vi, a Defensora de Piltover",
+        "Descricao": "Antiga criminosa das ruas violentas de Zaun, Vi é uma mulher temível, impulsiva e explosiva que tem muito pouco respeito por autoridades. Após ter crescido completamente só, Vi desenvolveu instintos de sobrevivência extremamente certeiros e um senso de humor extremamente ácido. Agora trabalhando com os Vigias de Piltover para manter a paz, ela porta poderosas manoplas hextec capazes de esmagar paredes e suspeitos com a mesma facilidade.",
+        "Rota": ["Selva"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_vi.jpg"
+    },
+    {
+        "Numero": 144,
+        "Nome": "Viego, o Rei Destrúido",
+        "Descricao": "Outrora regente de um reino perdido, Viego morreu há mais de um milênio, quando uma tentativa de trazer sua esposa de volta à vida culminou em uma catástrofe mágica conhecida como 'a Ruína'. Transformado em um poderoso espectro morto-vivo, e sempre sendo torturado pela paixão obsessiva que sente por sua rainha morta há séculos, Viego agora é conhecido como o Rei Destruído. Hoje, ele controla os Tormentos enquanto assola Runeterra em busca de qualquer coisa que possa trazê-la de volta, destruindo tudo que estiver em seu caminho conforme a Névoa Negra emana de seu cruel coração partido.",
+        "Rota": ["Selva"],
+        "Funcao": "Assassino",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_viego.jpg"
+    },
+    {
+        "Numero": 145,
+        "Nome": "Viktor, o Arauto das Máquinas",
+        "Descricao": "Viktor, o arauto de uma nova era de tecnologia, devotou sua vida ao avanço da humanidade. Um idealista que busca elevar o povo de Zaun a um novo nível de compreensão, ele acredita que somente ao aceitar a evolução gloriosa da tecnologia será possível que a humanidade alcance seu verdadeiro potencial. Com um corpo melhorado por aço e ciência, Viktor é zeloso na sua busca por este brilhante futuro.",
+        "Rota": ["Meio"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_viktor.jpg"
+    },
+    {
+        "Numero": 146,
+        "Nome": "Vladimir, o Sanguinário Escarlate ",
+        "Descricao": "Um demônio sedento pelo sangue dos mortais, Vladimir tem influenciado os acontecimentos de Noxus desde os primórdios do império. Além de ter estendido sua vida por meios não naturais, sua maestria em hemomancia o permite controlar as mentes e corpos de outros como se fossem os seus. Nos exuberantes salões da aristocracia noxiana, isso possibilitou que construísse um culto fanático de personalidades ao seu redor, tudo isso para que ele possa sangrar seus inimigos nos becos escuros.",
+        "Rota": ["Meio"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_vladimir.jpg"
+    },
+    {
+        "Numero": 147,
+        "Nome": "Volibear, a Tempestade Implacável",
+        "Descricao": "Para aqueles que ainda o veneram, Volibear é a forma manifestada da tempestade. Destrutivo, selvagem e implacavelmente obstinado, ele já existia antes mesmo que os mortais andassem sobre a tundra de Freljord, protegendo as terras que ele e seus irmãos semideuses criaram. Com um ódio profundo pela civilização e pela fraqueza inerente a ela, Volibear luta para recuperar os velhos costumes de quando a terra era selvagem e o sangue jorrava livremente. Ele enfrenta todos aqueles que ousam entrar em seu caminho com dentes, garras e dominação estrondosa.",
+        "Rota": ["Topo"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_volibear.jpg"
+    },
+    {
+        "Numero": 148,
+        "Nome": "Warwick, a Ira Desimpedida de Zaun",
+        "Descricao": "Warwick é um monstro que caça pelas ruas cinzentas de Zaun. Transformado a partir de experimentos agonizantes, seu corpo agora é fundido a um sistema complexo de câmaras e bombas, um maquinário que enche suas veias com fúria química. Ele persegue os criminosos que aterrorizam as profundezas da cidade, movimentando-se pelas sombras. Warwick é atraído por sangue; para ele, esse aroma é enlouquecedor. Ninguém que derrama sangue é capaz de fugir dele.",
+        "Rota": ["Selva"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_warwick.jpg"
+    },
+    {
+        "Numero": 149,
+        "Nome": "Wukong, o Macaco Rei",
+        "Descricao": "Wukong é um trapaceiro vastaya que usa sua força, agilidade e inteligência para confundir os oponentes e deixar a situação a seu favor. Depois de encontrar uma eterna amizade no guerreiro conhecido como Master Yi, Wukong se tornou o último aprendiz da ancestral arte marcial conhecida como Wu Ju. Armado com um cajado encantado, Wukong tenta evitar que Ionia caia em ruína.",
+        "Rota": ["Selva","Topo"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_wukong.jpg"
+    },
+    {
+        "Numero": 150,
+        "Nome": "Xayah, a Rebelde",
+        "Descricao": "Mortal e precisa, Xayah é uma vastaya revolucionária que trava sua própria batalha para salvar seu povo. Ela usa sua agilidade, malícia e plumas afiadas para retalhar qualquer um que atrapalhe seu caminho. Xayah luta ao lado de seu parceiro e amante, Rakan, para proteger sua tribo em extinção e restaurar a antiga glória de sua raça.",
+        "Rota": ["Atirador"],
+        "Funcao": "Atirador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_xayah.jpg"
+    },
+    {
+        "Numero": 151,
+        "Nome": "Xerath, o Mago Ascendente",
+        "Descricao": "Xerath é um mago Ascendente da antiga Shurima, um ser de energia arcana que existe em meio a estilhaços de um sarcófago mágico. Por milênios, ele ficou enclausurado debaixo das areias do deserto, mas o ressurgimento de Shurima o libertou de sua antiga prisão. Enlouquecido pelo próprio poder, ele agora busca tomar o que crê ser seu por direito e substituir as civilizações existentes do mundo com uma criada em sua própria imagem.",
+        "Rota": ["Suporte"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_xeratth.jpg"
+    },
+    {
+        "Numero": 152,
+        "Nome": "Xin Zhao, o Senescal de Demacia",
+        "Descricao": "Xin Zhao é um guerreiro determinado, leal à dinastia Lumescudo. No passado, ele foi condenado a lutar como gladiador em Noxus, e sobreviveu à incontáveis lutas, mas depois de ser libertado por forças demacianas, ele prometeu sua vida e lealdade aos seus corajosos salvadores. Armado com sua lança de três pontas favorita, Xin Zhao agora luta pelo reino que adotou, desafiando com audácia qualquer inimigo, não importando as chances de vitória.",
+        "Rota": ["Selva"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_xinzhao.jpg"
+    },
+    {
+        "Numero": 153,
+        "Nome": "Yasuo, o Imperdoável",
+        "Descricao": "Yasuo, um ioniano extremamente determinado, é também um ágil espadachim que usa o próprio ar como arma para enfrentar seus inimigos. Quando jovem, ele teve seu orgulho ferido ao ser acusado injustamente do assassinato de seu mestre — sem conseguir provar sua inocência, ele foi forçado a matar o próprio irmão para se defender. Até hoje, mesmo depois do verdadeiro assassino do seu mestre ter sido revelado, Yasuo ainda não consegue se perdoar e vaga por sua terra natal com apenas o vento para guiar sua espada.",
+        "Rota": ["Meio","Topo"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_yasuo.jpg"
+    },
+    {
+        "Numero": 154,
+        "Nome": "Yone, o Inesquecido",
+        "Descricao": "Em vida, ele foi Yone; meio-irmão de Yasuo e um respeitado aluno da escola de espadachins de seu vilarejo. Mas, ao morrer pelas mãos do irmão, ele se viu perseguido por uma entidade maligna do reino espiritual e foi forçado a exterminá-la com sua própria espada. Agora, condenado a usar uma máscara demoníaca com o rosto da entidade, Yone busca incansavelmente essas criaturas para tentar entender o que ele mesmo se tornou.",
+        "Rota": ["Meio","Topo"],
+        "Funcao": "Assassino",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_yone.jpg"
+    },
+    {
+        "Numero": 155,
+        "Nome": "Yorick, o Pastor das Almas",
+        "Descricao": "Último sobrevivente de uma ordem religiosa há muito esquecida, Yorick é ao mesmo tempo abençoado e amaldiçoado pelo poder que exerce sobre os mortos. Preso nas Ilhas das Sombras, suas únicas companhias são os defuntos e espíritos atormentados que ele atrai para si. As ações monstruosas de Yorick mascaram seu nobre propósito: libertar sua terra da maldição da Ruína.",
+        "Rota": ["Topo"],
+        "Funcao": "Lutador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_yorick.jpg"
+    },
+    {
+        "Numero": 156,
+        "Nome": "Yuumi, a Gata Mágica",
+        "Descricao": "Uma gata mágica de Bandópolis, Yuumi já foi a mascote de uma feiticeira yordle chamada Norra. Mas quando sua mestra desapareceu misteriosamente, Yuumi se tornou a Guardiã do Livro dos Portais de Norra, viajando à procura dela através dos portais nas páginas. Sentindo falta do carinho de sua mestra, Yuumi busca diversas companhias em sua jornada, protegendo a todos com escudos luminosos e determinação ferrenha. Enquanto Livro se esforça para mantê-la focada na tarefa, Yuumi costuma se distrair com regalias mundanas, como cochilos e peixe para o jantar. Porém, no fim das contas, ela sempre retoma a missão: encontrar sua querida amiga.",
+        "Rota": ["Suporte"],
+        "Funcao": "Suporte",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_yuumi.jpg"
+    },
+    {
+        "Numero": 157,
+        "Nome": "Zac, a Arma Secreta",
+        "Descricao": "Zac é produto de um derramamento tóxico que percorreu um tubo quimtec e se armazenou em uma caverna isolada no Sumidouro de Zaun. Apesar de suas origens humildes, Zac deixou de ser uma lama qualquer e se tornou um ser pensante que mora nos encanamentos da cidade e emerge ocasionalmente para ajudar aqueles que não podem se ajudar ou para reconstruir a infraestrutura danificada de Zaun.",
+        "Rota": ["Selva"],
+        "Funcao": "Tanque",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_zac.jpg"
+    },
+    {
+        "Numero": 158,
+        "Nome": "Zed, o Mestre das Sombras",
+        "Descricao": "Absolutamente impiedoso e implacável, Zed é o líder da Ordem das Sombras; uma organização criada com a intenção de militarizar as tradições marciais e mágicas de Ionia para expulsar os invasores noxianos. Durante a guerra, o desespero o levou a libertar a forma secreta das sombras, uma magia espiritual malévola tão perigosa e manipuladora quanto poderosa. Zed dominou todas essas técnicas proibidas para destruir qualquer coisa que considerasse uma ameaça a sua nação, ou a sua nova ordem.",
+        "Rota": ["Meio","Selva"],
+        "Funcao": "Assassino",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_zed.jpg"
+    },
+    {
+        "Numero": 159,
+        "Nome": "Zeri, a Faísca de Zaun",
+        "Descricao": "Uma jovem obstinada e vivaz da classe operária de Zaun, Zeri canaliza magia elétrica para carregar a si mesma e a uma arma personalizada. O poder volátil espelha o que ela sente, as centelhas refletindo o estilo de vida ultrarrápido dela. Profundamente compassiva para com os outros, Zeri leva o amor da família e do lar dela consigo a todas as lutas. Embora as tentativas de ajudar saiam pela culatra às vezes, Zeri acredita piamente em uma verdade: lute pela sua comunidade, e ela lutará com você.",
+        "Rota": ["Atirador"],
+        "Funcao": "Atirador",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_zeri.jpg"
+    },
+    {
+        "Numero": 160,
+        "Nome": "Ziggs, o Especialista em Hexplosivos",
+        "Descricao": "O yordle Ziggs, amante de grandes bombas e pavios curtos, é uma força explosiva da natureza. Já entediado com sua vida previsível como assistente de um inventor de Piltover, ele fez amizade com uma bombardeira louca de cabelo azul chamada Jinx. Depois de uma noite louca na cidade com sua nova amiga, Ziggs aceitou seu conselho e se mudou para Zaun, onde ele agora explora suas fascinações com mais liberdade, aterrorizando tanto os barões químicos quanto os cidadãos comuns na sua aventura sem fim por explodir coisas.",
+        "Rota": ["Atirador","Meio"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_ziggs.jpg"
+    },
+    {
+        "Numero": 161,
+        "Nome": "Zilean, o Guardião do Tempo",
+        "Descricao": "Outrora um poderoso mago icathiano, Zilean se obcecou com a passagem do tempo depois de testemunhar a destruição de sua terra natal pelo Vazio. Sem conseguir gastar um minuto que fosse para lamentar a perda catastrófica, ele invocou uma antiga magia temporal para adivinhar todos os finais possíveis. Tendo se tornado essencialmente imortal com isso, Zilean agora caminha entre passado, presente e futuro, curvando e distorcendo o fluxo do tempo a sua volta, sempre procurando por aquele momento fugaz que vai fazer o relógio voltar e desfazer a destruição de Icathia.",
+        "Rota": ["Suporte"],
+        "Funcao": "Suporte",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_zilean.jpg"
+    },
+    {
+        "Numero": 162,
+        "Nome": "Zoe, o Aspecto do Crepúsculo",
+        "Descricao": "Como a personificação da travessura, imaginação e mudança, Zoe atua como a mensageira cósmica de Targon, anunciando a chegada de grandes eventos que redefinem mundos. Sua mera presença altera a matemática arcana que governa as realidades, às vezes causando cataclismas não intencionais. Talvez isso explique a forma despretensiosa e jovial com a qual Zoe encara seu dever e que permite que ela tenha tempo de sobra para pregar peças nos mortais, fazer brincadeirinhas ou dar um jeitinho de se divertir de alguma forma. Um encontro com Zoe pode ser agradável e revigorante, mas é sempre mais do que parece e geralmente extremamente perigoso.",
+        "Rota": ["Meio"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_zoe.jpg"
+    },
+    {
+        "Numero": 163,
+        "Nome": "Zyra, a Ascensão dos Espinhos",
+        "Descricao": "Nascida em uma antiga catástrofe mágica, Zyra é a fúria da natureza em forma física e uma sedutora criatura híbrida entre planta e humana, que faz surgir a vida a cada passo que dá. Ela vê os muitos mortais de Valoran como nada além de presas para suas crias semeadas e não sente nada ao destroçá-los em um turbilhão de farpas mortais. Apesar de seu real propósito ainda não ter sido descoberto, Zyra vaga pelo mundo, satisfazendo seus desejos primais de colonizar e estrangular toda e qualquer outra vida estranha que encontra.",
+        "Rota": ["Suporte"],
+        "Funcao": "Mago",
+        "Imagem": "\\img\\campeoes\\RiotX_ChampionList_zyra.jpg"
     }
 ]
